@@ -31,10 +31,10 @@ const card: Card = {
 			name: {
 				en: "Tackle",
 				fr: "Charge",
-				es: "Llama",
-				it: "Fiammata",
-				pt: "Chama",
-				de: "Flackern"
+				es: "Placaje",
+				it: "Azione",
+				pt: "Investida",
+				de: "Tackle"
 			},
 
 			damage: 10,
@@ -48,10 +48,10 @@ const card: Card = {
 			name: {
 				en: "Flare",
 				fr: "Flamboiement",
-				es: "Placaje",
-				it: "Azione",
-				pt: "Investida",
-				de: "Tackle"
+				es: "Llama",
+				it: "Fiammata",
+				pt: "Chama",
+				de: "Flackern"
 			},
 
 			damage: 20,

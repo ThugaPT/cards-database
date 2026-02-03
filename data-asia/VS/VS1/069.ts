@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "ブロックのカブトップ",
 	},
 
+
+	illustrator: "Katsura Tabata",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [141],

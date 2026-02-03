@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "ウィルのスローブロ",
 	},
 
+
+	illustrator: "Kagemaru Himeno",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [80],

@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "フォークナーのファーフェッチ",
 	},
 
+
+	illustrator: "Atsuko Nishida",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [83],

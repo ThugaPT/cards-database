@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "ブレインのマグカルゴ",
 	},
 
+
+	illustrator: "Kimiya Masago",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [219],

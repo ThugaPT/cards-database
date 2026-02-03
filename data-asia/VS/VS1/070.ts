@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "ブレインの染色",
 	},
 
+
+	illustrator: "Kimiya Masago",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [157],

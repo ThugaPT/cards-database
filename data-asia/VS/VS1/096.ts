@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "Rocket's Suicune",
 	},
 
+
+	illustrator: "Hironobu Yoshida",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	dexId: [245],

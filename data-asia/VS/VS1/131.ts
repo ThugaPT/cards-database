@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "Moomooミルク",
 	},
 
+
+	illustrator: "Tomokazu Komiya",
+
 	rarity: "Common",
 	category: "Trainer",
 

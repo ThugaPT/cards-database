@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "ブロックのomastar",
 	},
 
+
+	illustrator: "Kei Hoshiba",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [139],

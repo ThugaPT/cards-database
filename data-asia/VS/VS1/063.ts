@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "ジャニーンの毒",
 	},
 
+
+	illustrator: "Tomokazu Komiya",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [49],

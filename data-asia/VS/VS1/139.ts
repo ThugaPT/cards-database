@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "エネルギーアーク",
 	},
 
+
+	illustrator: "\"Big Mama\" Tagawa",
+
 	rarity: "Common",
 	category: "Trainer",
 

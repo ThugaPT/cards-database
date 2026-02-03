@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "プライスのピロスワイン",
 	},
 
+
+	illustrator: "Mitsuhiro Arita",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [221],

@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "ウィルのエスペオン",
 	},
 
+
+	illustrator: "Kagemaru Himeno",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [196],

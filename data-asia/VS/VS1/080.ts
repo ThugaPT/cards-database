@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "Koga's Forretress",
 	},
 
+
+	illustrator: "Toshinao Aoki",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [205],

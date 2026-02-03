@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "ジャスミンのジョルテオン",
 	},
 
+
+	illustrator: "Yukiko Baba",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [135],

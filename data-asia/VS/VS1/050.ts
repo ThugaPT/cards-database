@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "クレアの政治",
 	},
 
+
+	illustrator: "Shin-ichi Yoshida",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [186],

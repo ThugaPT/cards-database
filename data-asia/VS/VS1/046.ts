@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "クレアの爆風",
 	},
 
+
+	illustrator: "Shin-ichi Yoshida",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [9],

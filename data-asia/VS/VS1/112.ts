@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "ジャスミンのテクニカルマシン02",
 	},
 
+
+	illustrator: "\"Big Mama\" Tagawa",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

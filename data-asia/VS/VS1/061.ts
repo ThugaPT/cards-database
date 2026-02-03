@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "ジャニーンのビードリル",
 	},
 
+
+	illustrator: "Tomokazu Komiya",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [15],

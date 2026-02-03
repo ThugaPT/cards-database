@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "ポケモン反転",
 	},
 
+
+	illustrator: "\"Big Mama\" Tagawa",
+
 	rarity: "Common",
 	category: "Trainer",
 

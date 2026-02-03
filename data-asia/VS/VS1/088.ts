@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "カレンのマグマー",
 	},
 
+
+	illustrator: "Hajime Kusajima",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [126],

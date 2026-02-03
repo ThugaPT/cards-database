@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "フォークナーの恐怖",
 	},
 
+
+	illustrator: "Atsuko Nishida",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [22],

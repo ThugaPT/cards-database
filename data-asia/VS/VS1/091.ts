@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "カレンのウンブレオン",
 	},
 
+
+	illustrator: "Hajime Kusajima",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	dexId: [197],

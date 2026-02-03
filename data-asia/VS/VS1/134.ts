@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "スイッチ",
 	},
 
+
+	illustrator: "Keiji Kinebuchi",
+
 	rarity: "Common",
 	category: "Trainer",
 

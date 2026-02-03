@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "Bugsy's Scizor",
 	},
 
+
+	illustrator: "Kyoko Umemoto",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	dexId: [212],

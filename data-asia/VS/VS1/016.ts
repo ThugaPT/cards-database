@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "ホイットニーのペルシャ",
 	},
 
+
+	illustrator: "Miki Tanaka",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [53],

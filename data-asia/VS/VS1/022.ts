@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "モーティの催眠",
 	},
 
+
+	illustrator: "Naoyo Kimura",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [97],

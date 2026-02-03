@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "エネルギー電荷",
 	},
 
+
+	illustrator: "Keiji Kinebuchi",
+
 	rarity: "Common",
 	category: "Trainer",
 

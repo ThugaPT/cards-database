@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "ミスティのquagsire",
 	},
 
+
+	illustrator: "Satoshi Ohta",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [195],

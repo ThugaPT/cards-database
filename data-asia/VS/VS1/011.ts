@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "BugsyのLedian",
 	},
 
+
+	illustrator: "Kyoko Umemoto",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [166],

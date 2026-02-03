@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "コガのクロバット",
 	},
 
+
+	illustrator: "Toshinao Aoki",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [169],

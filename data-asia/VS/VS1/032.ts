@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "JasmineのSteelix",
 	},
 
+
+	illustrator: "Yukiko Baba",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [208],

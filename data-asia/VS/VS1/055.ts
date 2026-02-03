@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "サブリナのXatu",
 	},
 
+
+	illustrator: "Asuka Iwashita",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [178],

@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "プライスのarticuno",
 	},
 
+
+	illustrator: "Mitsuhiro Arita",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [144],

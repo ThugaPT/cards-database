@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "フルヒール",
 	},
 
+
+	illustrator: "Keiji Kinebuchi",
+
 	rarity: "Common",
 	category: "Trainer",
 

@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "ミスティのラプラ",
 	},
 
+
+	illustrator: "Satoshi Ohta",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [131],

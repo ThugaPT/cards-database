@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "エリカのベロッソム",
 	},
 
+
+	illustrator: "Motofumi Fujiwara",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [182],

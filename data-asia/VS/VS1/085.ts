@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "ブルーノのウルサリング",
 	},
 
+
+	illustrator: "Yuka Morii",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [217],

@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "Surge's Raichu中t",
 	},
 
+
+	illustrator: "Etsuya Hattori",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [26],

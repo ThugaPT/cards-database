@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "Bugsy's Pinsir",
 	},
 
+
+	illustrator: "Kyoko Umemoto",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [127],

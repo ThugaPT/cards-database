@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "Surge's Lanturn中t",
 	},
 
+
+	illustrator: "Etsuya Hattori",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [171],

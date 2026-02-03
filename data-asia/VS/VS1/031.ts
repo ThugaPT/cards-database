@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "ジャスミンのアンファロス",
 	},
 
+
+	illustrator: "Yukiko Baba",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [181],

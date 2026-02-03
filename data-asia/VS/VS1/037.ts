@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "チャックのグランブル",
 	},
 
+
+	illustrator: "Masako Yamashita",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [210],

@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "カレンのフレレオン",
 	},
 
+
+	illustrator: "Hajime Kusajima",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [136],

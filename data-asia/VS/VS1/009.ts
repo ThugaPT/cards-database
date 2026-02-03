@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "BugsyのBeedrill",
 	},
 
+
+	illustrator: "Kyoko Umemoto",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [15],

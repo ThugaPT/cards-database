@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "ジャニーンのアーボック",
 	},
 
+
+	illustrator: "Tomokazu Komiya",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [24],

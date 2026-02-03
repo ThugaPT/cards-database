@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "ロケットのウォブバッフェット",
 	},
 
+
+	illustrator: "Hironobu Yoshida",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	dexId: [202],

@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "ホイットニーのクレファー",
 	},
 
+
+	illustrator: "Miki Tanaka",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [36],

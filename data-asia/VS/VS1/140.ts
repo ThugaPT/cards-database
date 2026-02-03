@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "エネルギー回復",
 	},
 
+
+	illustrator: "Hideyuki Nakajima",
+
 	rarity: "None",
 	category: "Trainer",
 

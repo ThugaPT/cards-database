@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "ランスのギャラドス",
 	},
 
+
+	illustrator: "Aya Kusube",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [130],

@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "フォークナーのスカルモリー",
 	},
 
+
+	illustrator: "Atsuko Nishida",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	dexId: [227],

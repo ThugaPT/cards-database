@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "カレンの猟犬",
 	},
 
+
+	illustrator: "Hajime Kusajima",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [229],

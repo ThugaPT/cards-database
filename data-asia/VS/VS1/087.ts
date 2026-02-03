@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "カレンズラピダッシュ",
 	},
 
+
+	illustrator: "Hajime Kusajima",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [78],

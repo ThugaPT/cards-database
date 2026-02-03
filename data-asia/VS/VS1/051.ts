@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "クレアのマンティン",
 	},
 
+
+	illustrator: "Shin-ichi Yoshida",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [226],

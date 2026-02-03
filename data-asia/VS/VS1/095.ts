@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "ロケットのentei",
 	},
 
+
+	illustrator: "Hironobu Yoshida",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	dexId: [244],

@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "カレンのタイラニター",
 	},
 
+
+	illustrator: "Hajime Kusajima",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	dexId: [248],

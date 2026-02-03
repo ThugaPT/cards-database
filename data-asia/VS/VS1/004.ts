@@ -7,6 +7,9 @@ const card: Card = {
 		ja: "フォークナーのドドリオ",
 	},
 
+
+	illustrator: "Atsuko Nishida",
+
 	rarity: "Common",
 	category: "Pokemon",
 	dexId: [85],

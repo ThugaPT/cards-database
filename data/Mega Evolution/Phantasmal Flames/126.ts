@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Rotom ex"
 	},
 
+
+	illustrator: "Yoshimi Miyoshi",
+
 	rarity: "Special illustration rare",
 	category: "Pokemon",
 	hp: 190,

@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Brambleghast"
 	},
 
+
+	illustrator: "Tetsu Kayama",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 100,

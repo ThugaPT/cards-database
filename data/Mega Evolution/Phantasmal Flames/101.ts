@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Flygon"
 	},
 
+
+	illustrator: "Ryota Murayama",
+
 	rarity: "Illustration rare",
 	category: "Pokemon",
 	hp: 150,

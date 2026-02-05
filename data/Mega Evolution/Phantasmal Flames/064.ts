@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Sandile"
 	},
 
+
+	illustrator: "Taiga Kasai",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 70,

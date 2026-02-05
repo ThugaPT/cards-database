@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Dawn"
 	},
 
+
+	illustrator: "Yuu Nishida",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

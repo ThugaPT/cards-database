@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Vileplume"
 	},
 
+
+	illustrator: "Shibuzoh.",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 150,

@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Toxtricity"
 	},
 
+
+	illustrator: "DOM",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 140,

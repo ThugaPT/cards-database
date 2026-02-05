@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Mamoswine"
 	},
 
+
+	illustrator: "Takumi Wada",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 180,

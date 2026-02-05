@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Mega Diancie ex"
 	},
 
+
+	illustrator: "aky CG Works",
+
 	rarity: "Double rare",
 	category: "Pokemon",
 	hp: 270,

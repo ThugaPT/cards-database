@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Misdreavus"
 	},
 
+
+	illustrator: "Mousho",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 70,

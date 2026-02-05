@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Prinplup"
 	},
 
+
+	illustrator: "Atsuya Uki",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 100,

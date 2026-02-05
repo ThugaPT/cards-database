@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Cresselia"
 	},
 
+
+	illustrator: "Raita Kazama",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 120,

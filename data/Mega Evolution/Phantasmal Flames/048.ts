@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Tauros de Paldea"
 	},
 
+
+	illustrator: "Souichirou Gunjima",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 130,

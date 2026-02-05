@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Piloswine"
 	},
 
+
+	illustrator: "Shinya Komatsu",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 100,

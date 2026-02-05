@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Dewgong"
 	},
 
+
+	illustrator: "Taira Akitsu",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 130,

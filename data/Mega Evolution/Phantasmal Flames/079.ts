@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Ambipom"
 	},
 
+
+	illustrator: "hncl",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 110,

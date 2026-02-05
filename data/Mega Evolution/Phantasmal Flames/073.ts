@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Togedemaru"
 	},
 
+
+	illustrator: "Bun Toujo",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 80,

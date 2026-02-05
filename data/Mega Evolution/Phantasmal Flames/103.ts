@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Toxtricity"
 	},
 
+
+	illustrator: "Terada Tera",
+
 	rarity: "Illustration rare",
 	category: "Pokemon",
 	hp: 140,

@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Lokix"
 	},
 
+
+	illustrator: "Taiga Kasai",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 120,

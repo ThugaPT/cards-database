@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Lombre"
 	},
 
+
+	illustrator: "Shigenori Negishi",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 90,

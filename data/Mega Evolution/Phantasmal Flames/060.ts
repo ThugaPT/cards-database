@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Carvanha"
 	},
 
+
+	illustrator: "Shin Nagasawa",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 70,

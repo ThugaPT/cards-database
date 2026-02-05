@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Trapinch"
 	},
 
+
+	illustrator: "Uta",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 70,

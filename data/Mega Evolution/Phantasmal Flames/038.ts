@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Granbull"
 	},
 
+
+	illustrator: "Ryuta Fuse",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 130,

@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Gloom"
 	},
 
+
+	illustrator: "Yoriyuki Ikegami",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 70,

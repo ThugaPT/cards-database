@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Sorvetão Jumbo"
 	},
 
+
+	illustrator: "AYUMI ODASHIMA",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

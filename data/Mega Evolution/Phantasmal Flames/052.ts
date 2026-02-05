@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Vibrava"
 	},
 
+
+	illustrator: "Miki Tanaka",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 90,

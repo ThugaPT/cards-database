@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Bronzong"
 	},
 
+
+	illustrator: "Masako Tomii",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 140,

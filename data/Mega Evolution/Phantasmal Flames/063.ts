@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Absol"
 	},
 
+
+	illustrator: "Takumi Wada",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 110,

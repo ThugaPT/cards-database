@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Mega Sharpedo ex"
 	},
 
+
+	illustrator: "nagimiso",
+
 	rarity: "Special illustration rare",
 	category: "Pokemon",
 	hp: 330,

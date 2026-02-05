@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Ludicolo"
 	},
 
+
+	illustrator: "Jerky",
+
 	rarity: "Illustration rare",
 	category: "Pokemon",
 	hp: 160,

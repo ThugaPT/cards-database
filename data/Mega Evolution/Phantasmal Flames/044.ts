@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Alcremie"
 	},
 
+
+	illustrator: "Narumi Sato",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 90,

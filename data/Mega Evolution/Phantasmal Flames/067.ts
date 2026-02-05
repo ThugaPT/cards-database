@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Toxel"
 	},
 
+
+	illustrator: "OKACHEKE",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 70,

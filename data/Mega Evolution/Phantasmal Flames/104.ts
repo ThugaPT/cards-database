@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Togedemaru"
 	},
 
+
+	illustrator: "Orca",
+
 	rarity: "Illustration rare",
 	category: "Pokemon",
 	hp: 80,

@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Bramblin"
 	},
 
+
+	illustrator: "Takeshi Nakamura",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 50,

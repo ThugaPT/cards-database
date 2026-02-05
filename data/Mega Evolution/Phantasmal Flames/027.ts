@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Piplup"
 	},
 
+
+	illustrator: "Hideki Ishikawa",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 70,

@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Krokorok"
 	},
 
+
+	illustrator: "Uninori",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 100,

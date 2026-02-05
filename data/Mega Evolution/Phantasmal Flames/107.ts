@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Ambipom"
 	},
 
+
+	illustrator: "Shigenori Negishi",
+
 	rarity: "Illustration rare",
 	category: "Pokemon",
 	hp: 110,

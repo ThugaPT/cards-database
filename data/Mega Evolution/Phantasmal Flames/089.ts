@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Cuspidor de Fogo"
 	},
 
+
+	illustrator: "Naoki Saito",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

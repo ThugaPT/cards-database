@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Charmeleon"
 	},
 
+
+	illustrator: "Uninori",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 110,

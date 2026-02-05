@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Wigglytuff"
 	},
 
+
+	illustrator: "En Morikura",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 120,

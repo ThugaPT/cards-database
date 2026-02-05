@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Jigglypuff"
 	},
 
+
+	illustrator: "Naoyo Kimura",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 70,

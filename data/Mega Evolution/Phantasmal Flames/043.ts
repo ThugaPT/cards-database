@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Milcery"
 	},
 
+
+	illustrator: "Taiga Kayama",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 50,

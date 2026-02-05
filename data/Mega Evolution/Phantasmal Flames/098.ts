@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Piplup"
 	},
 
+
+	illustrator: "Jiro Sasumo",
+
 	rarity: "Illustration rare",
 	category: "Pokemon",
 	hp: 70,

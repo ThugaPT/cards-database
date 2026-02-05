@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Pawmot"
 	},
 
+
+	illustrator: "satoma",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 140,

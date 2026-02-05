@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Zigzagoon"
 	},
 
+
+	illustrator: "Dsuke",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 70,

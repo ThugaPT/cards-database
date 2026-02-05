@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Jaula de Batalha"
 	},
 
+
+	illustrator: "MARINA Chikazawa",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

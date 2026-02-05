@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Wooper de Paldea"
 	},
 
+
+	illustrator: "OKACHEKE",
+
 	rarity: "Illustration rare",
 	category: "Pokemon",
 	hp: 60,

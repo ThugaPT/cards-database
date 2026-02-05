@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Pingente Sagrado"
 	},
 
+
+	illustrator: "Toyste Beach",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Swinub"
 	},
 
+
+	illustrator: "imoniii",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 70,

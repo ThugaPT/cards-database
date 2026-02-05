@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Lotad"
 	},
 
+
+	illustrator: "Wintr Wandr",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 70,

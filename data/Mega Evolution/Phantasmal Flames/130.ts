@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Mega Charizard X ex"
 	},
 
+
+	illustrator: "takuyoa",
+
 	rarity: "Mega Hyper Rare",
 	category: "Pokemon",
 	hp: 360,

@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Gliscor"
 	},
 
+
+	illustrator: "Dsuke",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 120,

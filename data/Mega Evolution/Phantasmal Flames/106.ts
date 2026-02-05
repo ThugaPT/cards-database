@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Meowth"
 	},
 
+
+	illustrator: "Uninori",
+
 	rarity: "Illustration rare",
 	category: "Pokemon",
 	hp: 70,

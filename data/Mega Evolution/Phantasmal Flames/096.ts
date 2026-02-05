@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Nymble"
 	},
 
+
+	illustrator: "Nakamura Ippan",
+
 	rarity: "Illustration rare",
 	category: "Pokemon",
 	hp: 50,

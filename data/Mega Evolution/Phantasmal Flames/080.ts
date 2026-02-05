@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Smeargle"
 	},
 
+
+	illustrator: "REND",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 80,

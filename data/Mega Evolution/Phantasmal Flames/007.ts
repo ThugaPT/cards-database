@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Ludicolo"
 	},
 
+
+	illustrator: "Anesaki Dynamic",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 160,

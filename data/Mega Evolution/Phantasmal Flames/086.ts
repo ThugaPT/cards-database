@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Maçarico"
 	},
 
+
+	illustrator: "Toyste Beach",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

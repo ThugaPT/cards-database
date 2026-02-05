@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Empoleon ex"
 	},
 
+
+	illustrator: "5ban Graphics",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 320,

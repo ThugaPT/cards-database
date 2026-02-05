@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Suicune"
 	},
 
+
+	illustrator: "Takeshi Nakamura",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 130,

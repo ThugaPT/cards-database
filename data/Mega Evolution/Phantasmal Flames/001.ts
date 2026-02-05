@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Oddish"
 	},
 
+
+	illustrator: "MINAMINAMI Take",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 50,

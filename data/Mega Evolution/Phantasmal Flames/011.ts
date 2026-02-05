@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Charmander"
 	},
 
+
+	illustrator: "HYOGONOSUKE",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 80,

@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Sableye"
 	},
 
+
+	illustrator: "osare",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 80,

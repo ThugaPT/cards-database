@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Bronzor"
 	},
 
+
+	illustrator: "OKUBO",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 80,

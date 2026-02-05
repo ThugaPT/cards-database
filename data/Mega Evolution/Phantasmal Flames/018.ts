@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Oricorio ex"
 	},
 
+
+	illustrator: "akagi",
+
 	rarity: "Double rare",
 	category: "Pokemon",
 	hp: 190,

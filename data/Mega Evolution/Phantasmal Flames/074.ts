@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Duraludon"
 	},
 
+
+	illustrator: "Shinji Kanda",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 130,

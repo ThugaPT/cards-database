@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Artimanha do Funesto"
 	},
 
+
+	illustrator: "GIDORA",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Ceruledge"
 	},
 
+
+	illustrator: "Gemi",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 140,

@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Yamper"
 	},
 
+
+	illustrator: "tono",
+
 	rarity: "Illustration rare",
 	category: "Pokemon",
 	hp: 70,

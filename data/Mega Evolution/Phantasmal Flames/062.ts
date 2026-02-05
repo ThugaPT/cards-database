@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Seviper"
 	},
 
+
+	illustrator: "hncl",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 120,

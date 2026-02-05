@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Gastly"
 	},
 
+
+	illustrator: "Saboteri",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 70,

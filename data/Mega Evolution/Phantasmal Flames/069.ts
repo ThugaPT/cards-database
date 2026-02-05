@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Eternatus"
 	},
 
+
+	illustrator: "akagi",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 150,

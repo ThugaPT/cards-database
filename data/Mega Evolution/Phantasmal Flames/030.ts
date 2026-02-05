@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Yamper"
 	},
 
+
+	illustrator: "Ayako Ozaki",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 70,

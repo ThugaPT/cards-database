@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Genesect"
 	},
 
+
+	illustrator: "Mitsuhiro Arita",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 120,

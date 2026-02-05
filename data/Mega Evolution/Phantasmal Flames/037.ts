@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Snubbull"
 	},
 
+
+	illustrator: "Gapao",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 70,

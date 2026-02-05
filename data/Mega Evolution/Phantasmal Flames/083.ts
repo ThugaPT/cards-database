@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Buneary"
 	},
 
+
+	illustrator: "tono",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 70,

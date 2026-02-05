@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Dewgong"
 	},
 
+
+	illustrator: "satoma",
+
 	rarity: "Illustration rare",
 	category: "Pokemon",
 	hp: 130,

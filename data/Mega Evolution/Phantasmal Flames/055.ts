@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Haunter"
 	},
 
+
+	illustrator: "Rianti Hidayat",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 100,

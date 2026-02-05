@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Pawmi"
 	},
 
+
+	illustrator: "Shimaris Yukichi",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 60,

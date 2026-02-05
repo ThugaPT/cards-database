@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Meloetta"
 	},
 
+
+	illustrator: "MINAMINAMI Take",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 90,

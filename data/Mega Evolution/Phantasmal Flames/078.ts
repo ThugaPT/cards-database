@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Aipom"
 	},
 
+
+	illustrator: "Saboteri",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 70,

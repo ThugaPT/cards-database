@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Charcadet"
 	},
 
+
+	illustrator: "Tomokazu Komiya",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 70,

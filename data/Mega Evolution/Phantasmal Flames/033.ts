@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Pawmo"
 	},
 
+
+	illustrator: "Taiga Kayama",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 90,

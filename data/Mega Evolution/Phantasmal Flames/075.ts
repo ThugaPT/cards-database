@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Archaludon"
 	},
 
+
+	illustrator: "toriyufu",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 180,

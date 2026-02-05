@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Zacian"
 	},
 
+
+	illustrator: "Yoriyuki Ikegami",
+
 	rarity: "Illustration rare",
 	category: "Pokemon",
 	hp: 130,

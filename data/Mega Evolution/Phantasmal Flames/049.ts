@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Gligar"
 	},
 
+
+	illustrator: "Kazumasa Yasukuni",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 70,

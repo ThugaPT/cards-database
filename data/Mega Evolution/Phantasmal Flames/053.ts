@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Flygon"
 	},
 
+
+	illustrator: "Jerky",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 150,

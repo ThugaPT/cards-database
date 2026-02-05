@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Boltund"
 	},
 
+
+	illustrator: "Orca",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 130,

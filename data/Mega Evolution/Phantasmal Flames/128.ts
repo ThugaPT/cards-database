@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Mega Lopunny ex"
 	},
 
+
+	illustrator: "Kinu Nishimura",
+
 	rarity: "Special illustration rare",
 	category: "Pokemon",
 	hp: 330,

@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Moltres"
 	},
 
+
+	illustrator: "Kazumasa Yasukuni",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 120,

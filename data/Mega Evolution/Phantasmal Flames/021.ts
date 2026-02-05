@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Seel"
 	},
 
+
+	illustrator: "svlt",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 80,

@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Darumaka"
 	},
 
+
+	illustrator: "NC Empire",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 80,

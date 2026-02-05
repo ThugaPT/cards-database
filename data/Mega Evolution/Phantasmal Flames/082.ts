@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Linoone"
 	},
 
+
+	illustrator: "nagimiso",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 100,

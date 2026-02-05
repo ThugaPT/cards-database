@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Wigglytuff"
 	},
 
+
+	illustrator: "REND",
+
 	rarity: "Illustration rare",
 	category: "Pokemon",
 	hp: 120,

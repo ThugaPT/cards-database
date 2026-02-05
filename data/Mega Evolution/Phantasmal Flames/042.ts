@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Mimikyu"
 	},
 
+
+	illustrator: "miki kudo",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 70,

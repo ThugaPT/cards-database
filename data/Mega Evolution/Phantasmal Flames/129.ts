@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Dawn"
 	},
 
+
+	illustrator: "Atsushi Furusawa",
+
 	rarity: "Special illustration rare",
 	category: "Trainer",
 

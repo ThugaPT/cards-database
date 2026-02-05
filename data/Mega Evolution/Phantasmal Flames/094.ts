@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Fragmento Encantado"
 	},
 
+
+	illustrator: "Studio Bora Inc.",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

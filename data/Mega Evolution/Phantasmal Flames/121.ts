@@ -14,6 +14,9 @@ const card: Card = {
 		pt: "Capacete Punk"
 	},
 
+
+	illustrator: "Studio Bora Inc.",
+
 	rarity: "Ultra Rare",
 	category: "Trainer",
 

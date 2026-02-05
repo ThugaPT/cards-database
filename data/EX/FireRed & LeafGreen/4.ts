@@ -8,7 +8,7 @@ const card: Card = {
 		de: "Ditto"
 	},
 
-	illustrator: "MikiTanaka",
+	illustrator: "Miki Tanaka",
 	rarity: "Rare",
 	category: "Pokemon",
 	set: Set,

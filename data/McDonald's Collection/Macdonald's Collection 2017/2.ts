@@ -16,6 +16,8 @@ const card: Card = {
 		en: "Grubbin",
 		fr: "Larvibule",
 	},
+
+	illustrator: "Akira Komayama",
 	rarity: "None",
 	category: "Pokemon",
 	hp: 70,

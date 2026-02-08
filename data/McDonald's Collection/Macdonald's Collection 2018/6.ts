@@ -16,6 +16,9 @@ const card: Card = {
 		en: "Machop"
 	},
 
+
+	illustrator: "Masakazu Fukuda",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 60,

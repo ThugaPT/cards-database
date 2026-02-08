@@ -16,6 +16,9 @@ const card: Card = {
 		en: "Porygon"
 	},
 
+
+	illustrator: "Shin Nagasawa",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 60,

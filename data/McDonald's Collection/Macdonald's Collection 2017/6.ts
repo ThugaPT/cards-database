@@ -16,6 +16,8 @@ const card: Card = {
 		en: "Cosmog",
 		fr: "Cosmog",
 	},
+
+	illustrator: "Megumi Mizutani",
 	rarity: "None",
 	category: "Pokemon",
 	hp: 60,

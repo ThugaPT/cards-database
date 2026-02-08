@@ -16,6 +16,8 @@ const card: Card = {
 		en: "Fennekin",
 		fr: "Feunnec",
 	},
+
+	illustrator: "5ban Graphics",
 	rarity: "None",
 	category: "Pokemon",
 	hp: 60,

@@ -16,6 +16,9 @@ const card: Card = {
 		en: "Chansey"
 	},
 
+
+	illustrator: "Megumi Mizutani",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 110,

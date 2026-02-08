@@ -16,6 +16,8 @@ const card: Card = {
 		en: "Alolan Meowth",
 		fr: "Miaouss d'Alola",
 	},
+
+	illustrator: "Kagemaru Himeno",
 	rarity: "None",
 	category: "Pokemon",
 	hp: 70,

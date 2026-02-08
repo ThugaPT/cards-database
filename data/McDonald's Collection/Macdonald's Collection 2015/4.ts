@@ -16,6 +16,8 @@ const card: Card = {
 		en: "Staryu",
 		fr: "Stari",
 	},
+
+	illustrator: "Tomokazu Komiya",
 	rarity: "None",
 	category: "Pokemon",
 	hp: 60,

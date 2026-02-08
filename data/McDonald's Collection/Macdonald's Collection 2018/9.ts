@@ -16,6 +16,9 @@ const card: Card = {
 		en: "Dratini"
 	},
 
+
+	illustrator: "Naoyo Kimura",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 60,

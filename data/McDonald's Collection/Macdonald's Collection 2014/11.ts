@@ -16,6 +16,8 @@ const card: Card = {
 		en: "Fletchling",
 		fr: "Passerouge",
 	},
+
+	illustrator: "5ban Graphics",
 	rarity: "None",
 	category: "Pokemon",
 	hp: 50,

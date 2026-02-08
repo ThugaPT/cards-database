@@ -16,6 +16,8 @@ const card: Card = {
 		en: "Yungoos",
 		fr: "Manglouton",
 	},
+
+	illustrator: "match",
 	rarity: "None",
 	category: "Pokemon",
 	hp: 70,

@@ -16,6 +16,9 @@ const card: Card = {
 		en: "Growlithe"
 	},
 
+
+	illustrator: "MAHOU",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 80,

@@ -16,6 +16,8 @@ const card: Card = {
 		en: "Cutiefly",
 		fr: "Bombydou",
 	},
+
+	illustrator: "Hitoshi Ariga",
 	rarity: "None",
 	category: "Pokemon",
 	hp: 30,

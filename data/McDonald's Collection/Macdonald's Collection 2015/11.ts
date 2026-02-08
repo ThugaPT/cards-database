@@ -16,6 +16,8 @@ const card: Card = {
 		en: "Zigzagoon",
 		fr: "Zigzaton",
 	},
+
+	illustrator: "Sumiyoshi Kizuki",
 	rarity: "None",
 	category: "Pokemon",
 	hp: 60,

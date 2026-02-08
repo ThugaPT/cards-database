@@ -16,6 +16,9 @@ const card: Card = {
 		en: "Horsea"
 	},
 
+
+	illustrator: "Saya Tsuruta",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 60,

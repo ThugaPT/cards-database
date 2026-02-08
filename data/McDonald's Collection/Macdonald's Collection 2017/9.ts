@@ -16,6 +16,8 @@ const card: Card = {
 		en: "Alolan Diglett",
 		fr: "Taupiqueur d'Alola",
 	},
+
+	illustrator: "Megumi Mizutani",
 	rarity: "None",
 	category: "Pokemon",
 	hp: 50,

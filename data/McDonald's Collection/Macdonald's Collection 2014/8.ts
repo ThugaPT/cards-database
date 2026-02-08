@@ -16,6 +16,8 @@ const card: Card = {
 		en: "Snubbull",
 		fr: "Snubbull",
 	},
+
+	illustrator: "Naoki Saito",
 	rarity: "None",
 	category: "Pokemon",
 	hp: 70,

@@ -16,6 +16,8 @@ const card: Card = {
 		en: "Crabrawler",
 		fr: "Crabagarre",
 	},
+
+	illustrator: "Shin Nagasawa",
 	rarity: "None",
 	category: "Pokemon",
 	hp: 80,

@@ -16,6 +16,9 @@ const card: Card = {
 		en: "Psyduck"
 	},
 
+
+	illustrator: "Shibuzoh.",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 70,

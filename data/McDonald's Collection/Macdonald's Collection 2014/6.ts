@@ -16,6 +16,8 @@ const card: Card = {
 		en: "Inkay",
 		fr: "Sepiatop",
 	},
+
+	illustrator: "5ban Graphics",
 	rarity: "None",
 	category: "Pokemon",
 	hp: 60,

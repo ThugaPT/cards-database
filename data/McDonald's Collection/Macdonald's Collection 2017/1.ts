@@ -16,6 +16,8 @@ const card: Card = {
 		en: "Rowlet",
 		fr: "Brindibou",
 	},
+
+	illustrator: "Megumi Mizutani",
 	rarity: "None",
 	category: "Pokemon",
 	hp: 60,

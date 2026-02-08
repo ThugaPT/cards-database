@@ -16,6 +16,8 @@ const card: Card = {
 		en: "Swirlix",
 		fr: "Sucroquin",
 	},
+
+	illustrator: "5ban Graphics",
 	rarity: "None",
 	category: "Pokemon",
 	hp: 60,

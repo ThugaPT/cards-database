@@ -16,6 +16,9 @@ const card: Card = {
 		en: "Magnemite"
 	},
 
+
+	illustrator: "MAHOU",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 60,

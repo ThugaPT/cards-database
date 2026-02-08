@@ -16,6 +16,8 @@ const card: Card = {
 		en: "Treecko",
 		fr: "Arcko",
 	},
+
+	illustrator: "Akira Komayama",
 	rarity: "None",
 	category: "Pokemon",
 	hp: 60,

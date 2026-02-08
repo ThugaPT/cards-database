@@ -16,6 +16,8 @@ const card: Card = {
 		en: "Skitty",
 		fr: "Skitty",
 	},
+
+	illustrator: "Yuka Morii",
 	rarity: "None",
 	category: "Pokemon",
 	hp: 50,

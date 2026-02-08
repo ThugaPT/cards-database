@@ -16,6 +16,8 @@ const card: Card = {
 		en: "Furfrou",
 		fr: "Couafarel",
 	},
+
+	illustrator: "5ban Graphics",
 	rarity: "None",
 	category: "Pokemon",
 	hp: 90,

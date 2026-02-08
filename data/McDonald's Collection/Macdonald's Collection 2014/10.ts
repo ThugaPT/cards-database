@@ -16,6 +16,8 @@ const card: Card = {
 		en: "Bunnelby",
 		fr: "Sapereau",
 	},
+
+	illustrator: "5ban Graphics",
 	rarity: "None",
 	category: "Pokemon",
 	hp: 60,

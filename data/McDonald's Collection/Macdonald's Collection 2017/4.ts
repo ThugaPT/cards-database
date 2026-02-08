@@ -16,6 +16,8 @@ const card: Card = {
 		en: "Popplio",
 		fr: "Otaquin",
 	},
+
+	illustrator: "Kouki Saitou",
 	rarity: "None",
 	category: "Pokemon",
 	hp: 70,

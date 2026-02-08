@@ -16,6 +16,8 @@ const card: Card = {
 		en: "Weedle",
 		fr: "Aspicot",
 	},
+
+	illustrator: "Akira Komayama",
 	rarity: "None",
 	category: "Pokemon",
 	hp: 40,

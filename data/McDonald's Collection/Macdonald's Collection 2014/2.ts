@@ -16,6 +16,8 @@ const card: Card = {
 		en: "Chespin",
 		fr: "Marisson",
 	},
+
+	illustrator: "5ban Graphics",
 	rarity: "None",
 	category: "Pokemon",
 	hp: 60,

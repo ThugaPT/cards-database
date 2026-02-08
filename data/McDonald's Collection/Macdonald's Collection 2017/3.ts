@@ -16,6 +16,8 @@ const card: Card = {
 		en: "Litten",
 		fr: "Flamiaou",
 	},
+
+	illustrator: "Akira Komayama",
 	rarity: "None",
 	category: "Pokemon",
 	hp: 70,

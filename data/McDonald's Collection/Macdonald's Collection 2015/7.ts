@@ -16,6 +16,8 @@ const card: Card = {
 		en: "Electrike",
 		fr: "Dynavolt",
 	},
+
+	illustrator: "Sumiyoshi Kizuki",
 	rarity: "None",
 	category: "Pokemon",
 	hp: 60,

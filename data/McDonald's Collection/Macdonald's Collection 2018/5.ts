@@ -16,6 +16,9 @@ const card: Card = {
 		en: "Slowpoke"
 	},
 
+
+	illustrator: "Mina Nakai",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 70,

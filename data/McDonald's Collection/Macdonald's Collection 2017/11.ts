@@ -16,6 +16,8 @@ const card: Card = {
 		en: "Pikipek",
 		fr: "Picassaut",
 	},
+
+	illustrator: "Shin Nagasawa",
 	rarity: "None",
 	category: "Pokemon",
 	hp: 50,

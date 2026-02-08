@@ -16,6 +16,8 @@ const card: Card = {
 		en: "Meditite",
 		fr: "Méditikka",
 	},
+
+	illustrator: "sui",
 	rarity: "None",
 	category: "Pokemon",
 	hp: 50,

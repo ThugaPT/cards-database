@@ -16,6 +16,8 @@ const card: Card = {
 		en: "Rhyhorn",
 		fr: "Rhinocorne",
 	},
+
+	illustrator: "Midori Harada",
 	rarity: "None",
 	category: "Pokemon",
 	hp: 80,

@@ -16,6 +16,9 @@ const card: Card = {
 		en: "Cubone"
 	},
 
+
+	illustrator: "sui",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 70,

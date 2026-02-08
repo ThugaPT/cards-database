@@ -16,6 +16,8 @@ const card: Card = {
 		en: "Mudkip",
 		fr: "Gobou",
 	},
+
+	illustrator: "Aya Kusube",
 	rarity: "None",
 	category: "Pokemon",
 	hp: 60,

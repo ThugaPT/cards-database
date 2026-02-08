@@ -16,6 +16,8 @@ const card: Card = {
 		en: "Marill",
 		fr: "Marill",
 	},
+
+	illustrator: "Shigenori Negishi",
 	rarity: "None",
 	category: "Pokemon",
 	hp: 70,

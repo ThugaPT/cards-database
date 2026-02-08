@@ -16,6 +16,8 @@ const card: Card = {
 		en: "Lotad",
 		fr: "Nénupiot",
 	},
+
+	illustrator: "Kanako Eo",
 	rarity: "None",
 	category: "Pokemon",
 	hp: 60,

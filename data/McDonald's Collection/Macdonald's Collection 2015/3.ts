@@ -16,6 +16,8 @@ const card: Card = {
 		en: "Torchic",
 		fr: "Poussifeu",
 	},
+
+	illustrator: "sui",
 	rarity: "None",
 	category: "Pokemon",
 	hp: 60,

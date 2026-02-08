@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Volcanion"
 	},
 
+
+	illustrator: "Hasuno",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 120,

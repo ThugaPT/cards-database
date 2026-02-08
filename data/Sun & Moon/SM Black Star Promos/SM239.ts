@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Karippas GX"
 	},
 
+
+	illustrator: "PLANETA Tsuji",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 250,

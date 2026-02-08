@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Bisaflor & Serpifeu GX"
 	},
 
+
+	illustrator: "Yuka Morii",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 270,

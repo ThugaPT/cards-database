@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Entei"
 	},
 
+
+	illustrator: "Ryuta Fuse",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 130,

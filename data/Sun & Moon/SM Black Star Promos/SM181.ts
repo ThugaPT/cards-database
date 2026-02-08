@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Melmetal"
 	},
 
+
+	illustrator: "TOKIYA",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 150,

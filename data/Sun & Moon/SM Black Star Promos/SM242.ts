@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Evoli GX"
 	},
 
+
+	illustrator: "aky CG Works",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 160,

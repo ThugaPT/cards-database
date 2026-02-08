@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Snobilikat"
 	},
 
+
+	illustrator: "tetsuya koizumi",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 100,

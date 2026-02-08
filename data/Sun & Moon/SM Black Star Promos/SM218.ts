@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Masskito"
 	},
 
+
+	illustrator: "Kouki Saito",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 130,

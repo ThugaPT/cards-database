@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Celebi"
 	},
 
+
+	illustrator: "Mizue",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 70,

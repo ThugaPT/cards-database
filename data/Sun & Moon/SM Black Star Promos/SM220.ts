@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Phione"
 	},
 
+
+	illustrator: "Kagemaru Himeno",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 70,

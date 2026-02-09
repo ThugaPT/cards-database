@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Brief vom Prof."
 	},
 
+
+	illustrator: "Yoshinobu Saito",
+
 	rarity: "None",
 	category: "Trainer",
 

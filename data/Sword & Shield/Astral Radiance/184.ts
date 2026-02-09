@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Silvanas Vitalität"
 	},
 
+
+	illustrator: "En Morikura",
+
 	rarity: "Ultra Rare",
 	category: "Trainer",
 

@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Belila"
 	},
 
+
+	illustrator: "kirisAki",
+
 	rarity: "Secret Rare",
 	category: "Trainer",
 

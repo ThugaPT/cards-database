@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Togekiss"
 	},
 
+
+	illustrator: "sui",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	hp: 130,

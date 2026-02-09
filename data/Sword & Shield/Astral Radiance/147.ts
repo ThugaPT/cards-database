@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Perla"
 	},
 
+
+	illustrator: "kirisAki",
+
 	rarity: "Holo Rare",
 	category: "Trainer",
 

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Strahlendes Quajutsu"
 	},
 
+
+	illustrator: "Souichirou Gunjima",
+
 	rarity: "Radiant Rare",
 	category: "Pokemon",
 	hp: 130,

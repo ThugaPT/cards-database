@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Fiffyen"
 	},
 
+
+	illustrator: "KIYOTAKA OSHIYAMA",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 60,

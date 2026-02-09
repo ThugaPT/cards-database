@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Traunmagil"
 	},
 
+
+	illustrator: "Ligton",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 90,

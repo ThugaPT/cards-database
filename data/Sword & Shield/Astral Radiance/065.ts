@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Selfe"
 	},
 
+
+	illustrator: "sui",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 70,

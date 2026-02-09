@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Strahlendes Resladero"
 	},
 
+
+	illustrator: "Masakazu Fukuda",
+
 	rarity: "Radiant Rare",
 	category: "Pokemon",
 	hp: 90,

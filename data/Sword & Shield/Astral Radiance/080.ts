@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Hippoterus"
 	},
 
+
+	illustrator: "Kyoko Umemoto",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 150,

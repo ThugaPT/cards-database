@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Saida"
 	},
 
+
+	illustrator: "Souichirou Gunjima",
+
 	rarity: "Ultra Rare",
 	category: "Trainer",
 

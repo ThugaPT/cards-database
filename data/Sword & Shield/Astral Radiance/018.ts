@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Hisui-Dressella VSTAR"
 	},
 
+
+	illustrator: "5ban Graphics",
+
 	rarity: "Holo Rare VSTAR",
 	category: "Pokemon",
 	hp: 260,

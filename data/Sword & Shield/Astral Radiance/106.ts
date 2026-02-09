@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Magneton"
 	},
 
+
+	illustrator: "Saya Tsuruta",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 90,

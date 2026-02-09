@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Galar-Barrikadax"
 	},
 
+
+	illustrator: "GOSSAN",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 160,

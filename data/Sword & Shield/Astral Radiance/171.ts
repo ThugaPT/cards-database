@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Machomei V"
 	},
 
+
+	illustrator: "Ryo Ueda",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 220,

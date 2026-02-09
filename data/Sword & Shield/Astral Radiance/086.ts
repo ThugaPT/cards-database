@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Axantor"
 	},
 
+
+	illustrator: "Anesaki Dynamic",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	hp: 140,

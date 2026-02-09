@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Zamazenta V"
 	},
 
+
+	illustrator: "Ryuta Fuse",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 230,

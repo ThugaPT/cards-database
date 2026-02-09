@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Starmie V"
 	},
 
+
+	illustrator: "Akira Komayama",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 190,

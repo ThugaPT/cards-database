@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Gallopa"
 	},
 
+
+	illustrator: "Ligton",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 100,

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Kirlia"
 	},
 
+
+	illustrator: "Saya Tsuruta",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 90,

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Hisui-Lektrobal"
 	},
 
+
+	illustrator: "Akira Komayama",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 90,

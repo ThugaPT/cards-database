@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Hisui-Snieboss V"
 	},
 
+
+	illustrator: "OKACHEKE",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 190,

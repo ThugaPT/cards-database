@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Regigigas"
 	},
 
+
+	illustrator: "Yuya Oka",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	hp: 150,

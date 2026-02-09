@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Galar-Arktos V"
 	},
 
+
+	illustrator: "Kouki Saitou",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 210,

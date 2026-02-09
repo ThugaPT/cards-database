@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Geduldturbo"
 	},
 
+
+	illustrator: "sadaji",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

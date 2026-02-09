@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Felizia"
 	},
 
+
+	illustrator: "Megumi Mizutani",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

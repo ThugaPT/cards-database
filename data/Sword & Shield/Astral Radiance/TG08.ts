@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Axantor"
 	},
 
+
+	illustrator: "Souichirou Gunjima",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 140,

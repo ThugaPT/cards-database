@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Damythir"
 	},
 
+
+	illustrator: "Mizue",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	hp: 140,

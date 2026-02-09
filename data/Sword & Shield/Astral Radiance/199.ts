@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Diam"
 	},
 
+
+	illustrator: "Souichirou Gunjima",
+
 	rarity: "Secret Rare",
 	category: "Trainer",
 

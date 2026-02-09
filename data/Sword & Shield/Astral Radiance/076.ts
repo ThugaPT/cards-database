@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Koknodon"
 	},
 
+
+	illustrator: "Hataya",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 90,

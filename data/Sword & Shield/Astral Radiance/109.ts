@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Schilterus"
 	},
 
+
+	illustrator: "Yuka Morii",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 100,

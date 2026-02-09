@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Igelavar"
 	},
 
+
+	illustrator: "Pani Kobayashi",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 90,

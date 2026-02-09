@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Togetic"
 	},
 
+
+	illustrator: "Tika Matsuno",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 80,

@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Honig"
 	},
 
+
+	illustrator: "ORBITALLINK Inc.",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

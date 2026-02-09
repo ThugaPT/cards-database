@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Welsar"
 	},
 
+
+	illustrator: "Shinji Kanda",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 120,

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Arboretoss"
 	},
 
+
+	illustrator: "0313",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 90,

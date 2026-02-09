@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Knakrack V"
 	},
 
+
+	illustrator: "N-DESIGN Inc.",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 200,

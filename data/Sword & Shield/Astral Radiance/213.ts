@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Schneegipfelpfad"
 	},
 
+
+	illustrator: "Oswaldo KATO",
+
 	rarity: "Secret Rare",
 	category: "Trainer",
 

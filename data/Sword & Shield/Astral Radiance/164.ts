@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Viridium V"
 	},
 
+
+	illustrator: "Saki Hayashiro",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 200,

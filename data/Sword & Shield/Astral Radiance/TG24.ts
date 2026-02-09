@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Nio"
 	},
 
+
+	illustrator: "Jiro Sasumo",
+
 	rarity: "Ultra Rare",
 	category: "Trainer",
 

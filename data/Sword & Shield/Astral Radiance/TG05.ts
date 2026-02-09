@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Guardevoir"
 	},
 
+
+	illustrator: "Sanosuke Sakuma",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 140,

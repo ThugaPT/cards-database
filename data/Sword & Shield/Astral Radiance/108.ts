@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Registeel"
 	},
 
+
+	illustrator: "hatachu",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 130,

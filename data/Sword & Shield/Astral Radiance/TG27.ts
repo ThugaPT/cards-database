@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Yarro"
 	},
 
+
+	illustrator: "Sanosuke Sakuma",
+
 	rarity: "Ultra Rare",
 	category: "Trainer",
 

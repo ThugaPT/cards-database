@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Sichlor"
 	},
 
+
+	illustrator: "GIDORA",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 90,

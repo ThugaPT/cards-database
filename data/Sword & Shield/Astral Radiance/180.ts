@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Damythir V"
 	},
 
+
+	illustrator: "aky CG Works",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 220,

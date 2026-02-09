@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Magnayen"
 	},
 
+
+	illustrator: "GOSSAN",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 110,

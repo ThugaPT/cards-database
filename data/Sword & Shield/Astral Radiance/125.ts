@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Damhirplex"
 	},
 
+
+	illustrator: "Teeziro",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 100,

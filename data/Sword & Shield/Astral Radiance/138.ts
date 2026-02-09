@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Zelestis"
 	},
 
+
+	illustrator: "nagimiso",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Heatran V"
 	},
 
+
+	illustrator: "Studio Bora Inc.",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 220,

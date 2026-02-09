@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Schmerbe"
 	},
 
+
+	illustrator: "Mizue",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 60,

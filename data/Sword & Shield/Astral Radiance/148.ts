@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Jubeldorf"
 	},
 
+
+	illustrator: "Oswaldo KATO",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

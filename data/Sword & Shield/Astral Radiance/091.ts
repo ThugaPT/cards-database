@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Hisui-Myriador"
 	},
 
+
+	illustrator: "Anesaki Dynamic",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 130,

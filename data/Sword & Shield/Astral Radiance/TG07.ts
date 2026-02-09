@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Legios"
 	},
 
+
+	illustrator: "Kinu Nishimura",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 110,

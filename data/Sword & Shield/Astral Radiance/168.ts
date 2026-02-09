@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Luxtra V"
 	},
 
+
+	illustrator: "MUGENUP",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 210,

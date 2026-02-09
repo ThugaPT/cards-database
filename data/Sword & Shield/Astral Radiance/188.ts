@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Felizia"
 	},
 
+
+	illustrator: "Sanosuke Sakuma",
+
 	rarity: "Ultra Rare",
 	category: "Trainer",
 

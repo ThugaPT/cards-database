@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Magnezone"
 	},
 
+
+	illustrator: "GOSSAN",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	hp: 150,

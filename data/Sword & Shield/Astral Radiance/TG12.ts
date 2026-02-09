@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Hoothoot"
 	},
 
+
+	illustrator: "HYOGONOSUKE",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 50,

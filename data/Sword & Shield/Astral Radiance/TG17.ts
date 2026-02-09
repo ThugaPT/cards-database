@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Rappenreiter-Coronospa V"
 	},
 
+
+	illustrator: "Oswaldo KATO",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 210,

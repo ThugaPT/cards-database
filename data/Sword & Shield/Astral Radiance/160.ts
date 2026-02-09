@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Bibor V"
 	},
 
+
+	illustrator: "Ayaka Yoshida",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 210,

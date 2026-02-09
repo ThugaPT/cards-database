@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Taiso"
 	},
 
+
+	illustrator: "Hitoshi Ariga",
+
 	rarity: "Secret Rare",
 	category: "Trainer",
 

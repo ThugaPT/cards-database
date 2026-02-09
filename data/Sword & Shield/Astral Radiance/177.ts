@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Ur-Dialga V"
 	},
 
+
+	illustrator: "Mitsuhiro Arita",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 220,

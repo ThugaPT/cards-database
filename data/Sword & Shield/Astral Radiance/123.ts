@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Ursaring"
 	},
 
+
+	illustrator: "Teeziro",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 130,

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Keifel"
 	},
 
+
+	illustrator: "yuu",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 90,

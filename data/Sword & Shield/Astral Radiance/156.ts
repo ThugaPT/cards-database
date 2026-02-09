@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Trekkingschuhe"
 	},
 
+
+	illustrator: "Toyste Beach",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

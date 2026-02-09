@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Hoothoot"
 	},
 
+
+	illustrator: "Pani Kobayashi",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 50,

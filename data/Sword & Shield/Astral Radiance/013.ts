@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Folipurba"
 	},
 
+
+	illustrator: "Atsushi Furusawa",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 110,

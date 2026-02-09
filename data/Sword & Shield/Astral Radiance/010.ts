@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Zirpeise"
 	},
 
+
+	illustrator: "Mitsuhiro Arita",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 90,

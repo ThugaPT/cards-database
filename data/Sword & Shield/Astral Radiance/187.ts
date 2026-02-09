@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Denboku"
 	},
 
+
+	illustrator: "Hitoshi Ariga",
+
 	rarity: "Ultra Rare",
 	category: "Trainer",
 

@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Federball"
 	},
 
+
+	illustrator: "Studio Bora Inc.",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

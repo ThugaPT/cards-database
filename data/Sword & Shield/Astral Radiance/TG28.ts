@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Nezz"
 	},
 
+
+	illustrator: "GOSSAN",
+
 	rarity: "Ultra Rare",
 	category: "Trainer",
 

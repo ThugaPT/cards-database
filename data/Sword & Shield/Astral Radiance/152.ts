@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Sehr effektive Brille"
 	},
 
+
+	illustrator: "Ryo Ueda",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

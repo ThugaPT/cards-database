@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Yanmega"
 	},
 
+
+	illustrator: "Masakazu Fukuda",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 120,

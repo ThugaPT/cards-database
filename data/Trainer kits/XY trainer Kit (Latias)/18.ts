@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Reptain"
 	},
 
+
+	illustrator: "match",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 80,

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Knuddeluff"
 	},
 
+
+	illustrator: "Kagemaru Himeno",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 100,

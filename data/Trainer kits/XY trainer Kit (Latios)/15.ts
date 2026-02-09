@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Rihorn"
 	},
 
+
+	illustrator: "Midori Harada",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 80,

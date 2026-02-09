@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Pixi"
 	},
 
+
+	illustrator: "Atsuko Nishida",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 90,

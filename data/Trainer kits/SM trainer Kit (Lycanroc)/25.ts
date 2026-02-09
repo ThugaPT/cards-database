@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Superball"
 	},
 
+
+	illustrator: "Ryo Ueda",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

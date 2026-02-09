@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Goldini"
 	},
 
+
+	illustrator: "MAHOU",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 60,

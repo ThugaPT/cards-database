@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Velursi"
 	},
 
+
+	illustrator: "Sanosuke Sakuma",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 70,

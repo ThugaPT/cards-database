@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Trompeck"
 	},
 
+
+	illustrator: "Kouki Saitou",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 80,

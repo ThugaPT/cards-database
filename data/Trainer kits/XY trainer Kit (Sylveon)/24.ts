@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Trank"
 	},
 
+
+	illustrator: "5ban Graphics",
+
 	rarity: "Common",
 	category: "Trainer",
 

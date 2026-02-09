@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Nagelotz"
 	},
 
+
+	illustrator: "Kyoko Umemoto",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 60,

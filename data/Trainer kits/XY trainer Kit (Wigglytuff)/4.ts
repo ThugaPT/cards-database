@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Wiesor"
 	},
 
+
+	illustrator: "Mizue",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 50,

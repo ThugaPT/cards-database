@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Spoink"
 	},
 
+
+	illustrator: "Atsuko Nishida",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 60,

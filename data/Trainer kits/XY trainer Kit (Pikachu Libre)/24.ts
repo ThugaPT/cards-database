@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Shnurgarst"
 	},
 
+
+	illustrator: "Kagemaru Himeno",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 100,

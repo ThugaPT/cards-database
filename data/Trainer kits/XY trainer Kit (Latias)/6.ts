@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Lombrero"
 	},
 
+
+	illustrator: "Naoyo Kimura",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 80,

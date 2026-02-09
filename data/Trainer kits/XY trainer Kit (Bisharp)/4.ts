@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Muntier"
 	},
 
+
+	illustrator: "Suwama Chiaki",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 90,

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Dartignis"
 	},
 
+
+	illustrator: "kawayoo",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 70,

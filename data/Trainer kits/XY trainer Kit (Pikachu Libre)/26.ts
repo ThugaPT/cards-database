@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Elezeba"
 	},
 
+
+	illustrator: "Aya Kusube",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 60,

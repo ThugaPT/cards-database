@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Elevoltek"
 	},
 
+
+	illustrator: "Shin Nagasawa",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 110,

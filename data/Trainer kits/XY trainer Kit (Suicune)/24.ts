@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Piccolente"
 	},
 
+
+	illustrator: "Atsuko Nishida",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 60,

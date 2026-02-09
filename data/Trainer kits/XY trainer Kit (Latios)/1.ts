@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Eneco"
 	},
 
+
+	illustrator: "Yuka Morii",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 50,

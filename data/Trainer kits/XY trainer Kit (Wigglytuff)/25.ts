@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Pummeluff"
 	},
 
+
+	illustrator: "Kanako Eo",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 60,

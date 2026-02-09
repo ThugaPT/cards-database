@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Enekoro"
 	},
 
+
+	illustrator: "Atsuko Nishida",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 80,

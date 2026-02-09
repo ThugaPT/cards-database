@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Dartiri"
 	},
 
+
+	illustrator: "You Iribi",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 50,

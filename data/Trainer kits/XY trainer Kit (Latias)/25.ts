@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Tangoloss"
 	},
 
+
+	illustrator: "MAHOU",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 130,

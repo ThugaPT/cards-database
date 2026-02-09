@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Togedemaru"
 	},
 
+
+	illustrator: "Megumi Mizutani",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 70,

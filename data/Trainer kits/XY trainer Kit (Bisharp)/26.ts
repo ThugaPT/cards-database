@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Bummelz"
 	},
 
+
+	illustrator: "Midori Harada",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 60,

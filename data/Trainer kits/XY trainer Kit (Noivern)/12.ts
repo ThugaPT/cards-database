@@ -14,6 +14,9 @@ const card: Card = {
 		de: "eF-eM"
 	},
 
+
+	illustrator: "5ban Graphics",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 60,

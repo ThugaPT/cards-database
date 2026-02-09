@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Duokles"
 	},
 
+
+	illustrator: "5ban Graphics",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 80,

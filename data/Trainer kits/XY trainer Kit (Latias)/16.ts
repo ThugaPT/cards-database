@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Gehweiher"
 	},
 
+
+	illustrator: "Sumiyoshi Kizuki",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 50,

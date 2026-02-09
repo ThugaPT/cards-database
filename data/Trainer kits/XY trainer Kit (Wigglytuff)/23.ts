@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Tauboga"
 	},
 
+
+	illustrator: "Shin Nagasawa",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 80,

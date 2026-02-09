@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Makuhita"
 	},
 
+
+	illustrator: "Mina Nakai",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 80,

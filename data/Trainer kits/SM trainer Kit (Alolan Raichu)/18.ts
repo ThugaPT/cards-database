@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Kosturso"
 	},
 
+
+	illustrator: "kirisAki",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 130,

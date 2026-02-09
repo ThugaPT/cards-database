@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Tausch"
 	},
 
+
+	illustrator: "5ban Graphics",
+
 	rarity: "Common",
 	category: "Trainer",
 

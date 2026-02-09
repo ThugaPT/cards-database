@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Strepoli"
 	},
 
+
+	illustrator: "Naoki Saito",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 80,

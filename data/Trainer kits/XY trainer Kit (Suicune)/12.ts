@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Golking"
 	},
 
+
+	illustrator: "Kyoko Umemoto",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 90,

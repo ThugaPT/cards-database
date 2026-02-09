@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Mabula"
 	},
 
+
+	illustrator: "Akira Komayama",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 70,

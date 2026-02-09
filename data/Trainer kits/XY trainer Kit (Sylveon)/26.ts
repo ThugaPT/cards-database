@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Pokéball"
 	},
 
+
+	illustrator: "5ban Graphics",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

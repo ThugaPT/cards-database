@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Zubat"
 	},
 
+
+	illustrator: "Satoshi Shirai",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 50,

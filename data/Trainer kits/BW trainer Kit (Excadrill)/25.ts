@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Rotomurf"
 	},
 
+
+	illustrator: "match",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 70,

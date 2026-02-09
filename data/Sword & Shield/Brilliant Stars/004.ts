@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Kapilz"
 	},
 
+
+	illustrator: "Sekio",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 110,

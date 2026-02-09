@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Lolas Vorahnung"
 	},
 
+
+	illustrator: "yuu",
+
 	rarity: "Ultra Rare",
 	category: "Trainer",
 

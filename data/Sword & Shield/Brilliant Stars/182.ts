@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Galar-Zapdos V"
 	},
 
+
+	illustrator: "5ban Graphics",
+
 	rarity: "Secret Rare",
 	category: "Pokemon",
 	hp: 200,

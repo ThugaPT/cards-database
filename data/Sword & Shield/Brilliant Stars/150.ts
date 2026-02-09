@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Hyperball"
 	},
 
+
+	illustrator: "sadaji",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

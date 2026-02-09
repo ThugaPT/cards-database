@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Mimigma V"
 	},
 
+
+	illustrator: "saino misaki",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 160,

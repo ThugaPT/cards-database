@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Knilz"
 	},
 
+
+	illustrator: "Shigenori Negishi",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 50,

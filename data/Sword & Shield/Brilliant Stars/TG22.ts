@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Nachtara V"
 	},
 
+
+	illustrator: "Ligton",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 200,

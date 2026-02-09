@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Klikk"
 	},
 
+
+	illustrator: "OKACHEKE",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 50,

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Mewtu"
 	},
 
+
+	illustrator: "Anesaki Dynamic",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 130,

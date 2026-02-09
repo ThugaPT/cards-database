@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Plinfa"
 	},
 
+
+	illustrator: "Atsushi Furusawa",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 60,

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Maxax"
 	},
 
+
+	illustrator: "Uta",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 170,

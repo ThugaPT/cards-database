@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Qurtel"
 	},
 
+
+	illustrator: "Kagemaru Himeno",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 120,

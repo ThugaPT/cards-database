@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Fokussierter-Angriff-Wulaosu VMAX"
 	},
 
+
+	illustrator: "kodama",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 330,

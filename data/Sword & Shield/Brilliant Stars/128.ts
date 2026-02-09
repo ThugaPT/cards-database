@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Sen-Long V"
 	},
 
+
+	illustrator: "aky CG Works",
+
 	rarity: "Holo Rare V",
 	category: "Pokemon",
 	hp: 210,

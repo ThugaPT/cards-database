@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Krebutack"
 	},
 
+
+	illustrator: "Shibuzoh.",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 130,

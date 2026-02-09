@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Heatran"
 	},
 
+
+	illustrator: "Yuya Oka",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 140,

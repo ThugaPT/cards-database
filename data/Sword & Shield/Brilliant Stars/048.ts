@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Raikou V"
 	},
 
+
+	illustrator: "PLANETA Mochizuki",
+
 	rarity: "Holo Rare V",
 	category: "Pokemon",
 	hp: 200,

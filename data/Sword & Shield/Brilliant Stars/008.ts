@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Chelterrar"
 	},
 
+
+	illustrator: "Oswaldo KATO",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	hp: 190,

@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Magmabecken"
 	},
 
+
+	illustrator: "ORBITALLINK Inc.",
+
 	rarity: "Secret Rare",
 	category: "Trainer",
 

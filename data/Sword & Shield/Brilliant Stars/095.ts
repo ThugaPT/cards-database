@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Morpeko V"
 	},
 
+
+	illustrator: "PLANETA Mochizuki",
+
 	rarity: "Holo Rare V",
 	category: "Pokemon",
 	hp: 190,

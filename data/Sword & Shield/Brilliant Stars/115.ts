@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Porenta"
 	},
 
+
+	illustrator: "Tomokazu Komiya",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 80,

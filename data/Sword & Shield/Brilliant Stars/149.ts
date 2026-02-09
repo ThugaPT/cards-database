@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Jubel von Team Yell"
 	},
 
+
+	illustrator: "GOSSAN",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

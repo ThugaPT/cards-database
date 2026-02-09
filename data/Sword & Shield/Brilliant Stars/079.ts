@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Lucario"
 	},
 
+
+	illustrator: "GIDORA",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	hp: 120,

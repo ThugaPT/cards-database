@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Stadionruine"
 	},
 
+
+	illustrator: "Oswaldo KATO",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

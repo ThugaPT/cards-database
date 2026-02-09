@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Octillery"
 	},
 
+
+	illustrator: "Shinya Komatsu",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 110,

@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Forschung des Professors"
 	},
 
+
+	illustrator: "Sanosuke Sakuma",
+
 	rarity: "Holo Rare",
 	category: "Trainer",
 

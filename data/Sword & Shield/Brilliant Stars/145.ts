@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Marys Stolz"
 	},
 
+
+	illustrator: "saino misaki",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

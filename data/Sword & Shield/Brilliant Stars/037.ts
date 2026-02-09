@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Impoleon"
 	},
 
+
+	illustrator: "Kouki Saitou",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	hp: 160,

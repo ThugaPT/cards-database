@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Puppance"
 	},
 
+
+	illustrator: "Kyoko Umemoto",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 50,

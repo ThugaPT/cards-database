@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Luxtra"
 	},
 
+
+	illustrator: "Ayaka Yoshida",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 150,

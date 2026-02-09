@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Knakrack"
 	},
 
+
+	illustrator: "Nurikabe",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	hp: 160,

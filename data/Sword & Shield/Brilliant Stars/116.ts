@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Formeo"
 	},
 
+
+	illustrator: "kawayoo",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 70,

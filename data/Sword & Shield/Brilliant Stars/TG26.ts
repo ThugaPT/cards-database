@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Gloria"
 	},
 
+
+	illustrator: "Naoki Saito",
+
 	rarity: "Ultra Rare",
 	category: "Trainer",
 

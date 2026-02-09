@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Sheinux"
 	},
 
+
+	illustrator: "Mizue",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 40,

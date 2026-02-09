@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Reinigende Handschuhe"
 	},
 
+
+	illustrator: "Toyste Beach",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

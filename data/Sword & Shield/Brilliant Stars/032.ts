@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Krebscorps"
 	},
 
+
+	illustrator: "Sekio",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 70,

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Karadonis"
 	},
 
+
+	illustrator: "Shinji Kanda",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 90,

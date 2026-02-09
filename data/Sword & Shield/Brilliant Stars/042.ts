@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Petznief"
 	},
 
+
+	illustrator: "ryoma uratsuka",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 60,

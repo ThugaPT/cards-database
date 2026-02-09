@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Libelldra"
 	},
 
+
+	illustrator: "Shin Nagasawa",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 150,

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Ariados"
 	},
 
+
+	illustrator: "Shiburingaru",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 110,

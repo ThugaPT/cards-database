@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Kleoparda"
 	},
 
+
+	illustrator: "AKIRA EGAWA",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 100,

@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Freunde aus Galar"
 	},
 
+
+	illustrator: "Yuu Nishida",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

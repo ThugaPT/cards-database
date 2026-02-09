@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Stolloss VMAX"
 	},
 
+
+	illustrator: "5ban Graphics",
+
 	rarity: "Holo Rare VMAX",
 	category: "Pokemon",
 	hp: 330,

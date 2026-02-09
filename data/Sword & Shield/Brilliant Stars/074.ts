@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Knacklion"
 	},
 
+
+	illustrator: "zig",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 60,

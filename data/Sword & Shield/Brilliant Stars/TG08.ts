@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Pokusan"
 	},
 
+
+	illustrator: "OKACHEKE",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 90,

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Glurak V"
 	},
 
+
+	illustrator: "Ryota Murayama",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 220,

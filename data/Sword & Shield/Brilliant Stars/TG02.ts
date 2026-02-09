@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Aquana"
 	},
 
+
+	illustrator: "Jiro Sasumo",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 110,

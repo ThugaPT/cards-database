@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Barry"
 	},
 
+
+	illustrator: "Yuu Nishida",
+
 	rarity: "Ultra Rare",
 	category: "Trainer",
 

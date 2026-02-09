@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Lumineon V"
 	},
 
+
+	illustrator: "takuyoa",
+
 	rarity: "Holo Rare V",
 	category: "Pokemon",
 	hp: 170,

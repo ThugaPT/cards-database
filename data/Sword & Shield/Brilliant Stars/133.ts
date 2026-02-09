@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Barista"
 	},
 
+
+	illustrator: "Hasegawa Saki",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

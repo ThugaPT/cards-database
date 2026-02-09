@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Chelast"
 	},
 
+
+	illustrator: "Narumi Sato",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 80,

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Burmy"
 	},
 
+
+	illustrator: "Miki Tanaka",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 60,

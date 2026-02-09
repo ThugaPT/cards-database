@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Hitzkopf"
 	},
 
+
+	illustrator: "Hitoshi Ariga",
+
 	rarity: "Secret Rare",
 	category: "Trainer",
 

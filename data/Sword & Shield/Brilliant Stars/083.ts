@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Golgantes"
 	},
 
+
+	illustrator: "Aya Kusube",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 150,

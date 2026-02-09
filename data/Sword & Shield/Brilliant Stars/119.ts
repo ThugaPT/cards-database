@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Staraptor"
 	},
 
+
+	illustrator: "Narumi Sato",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 150,

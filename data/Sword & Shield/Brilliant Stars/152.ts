@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Shaymin V"
 	},
 
+
+	illustrator: "Eske Yoshinob",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 190,

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Knarksel"
 	},
 
+
+	illustrator: "hatachu",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 90,

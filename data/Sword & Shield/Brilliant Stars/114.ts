@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Pescragon V"
 	},
 
+
+	illustrator: "Satoshi Shirai",
+
 	rarity: "Holo Rare V",
 	category: "Pokemon",
 	hp: 220,

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Pliprin"
 	},
 
+
+	illustrator: "Kagemaru Himeno",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 90,

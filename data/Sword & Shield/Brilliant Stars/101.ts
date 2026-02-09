@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Cavalanzas"
 	},
 
+
+	illustrator: "Nurikabe",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 120,

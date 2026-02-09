@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Zekrom"
 	},
 
+
+	illustrator: "AKIRA EGAWA",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 130,

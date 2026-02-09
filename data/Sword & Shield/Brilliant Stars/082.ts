@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Golbit"
 	},
 
+
+	illustrator: "Eske Yoshinob",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 100,

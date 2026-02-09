@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Fließender-Angriff-Wulaosu V"
 	},
 
+
+	illustrator: "takuyoa",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 220,

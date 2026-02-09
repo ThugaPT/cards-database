@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Sleima"
 	},
 
+
+	illustrator: "Masakazu Fukuda",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 80,

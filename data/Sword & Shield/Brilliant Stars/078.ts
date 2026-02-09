@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Riolu"
 	},
 
+
+	illustrator: "Teeziro",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 60,

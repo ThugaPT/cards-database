@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Vibrava"
 	},
 
+
+	illustrator: "Tomokazu Komiya",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 90,

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Shardrago"
 	},
 
+
+	illustrator: "Ryo Ueda",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 120,

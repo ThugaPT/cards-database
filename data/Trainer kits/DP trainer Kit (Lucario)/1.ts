@@ -10,7 +10,7 @@ const card: Card = {
 		fr: "Racaillou"
 	},
 
-	illustrator: "Ken Sudimori",
+	illustrator: "Ken Sugimori",
 	rarity: "None",
 	category: "Pokemon",
 

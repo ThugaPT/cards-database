@@ -10,7 +10,7 @@ const card: Card = {
 
 	illustrator: "Shin-ichi Yoshida",
 	rarity: "None",
-	category: "Pokemon",
+	category: "Pokemon",		hp: 50,
 	stage: "Stage1",
 
 	abilities: [{

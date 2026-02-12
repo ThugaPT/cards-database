@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Mangunior"
 	},
 
+
+	illustrator: "Oswaldo KATO",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 70,

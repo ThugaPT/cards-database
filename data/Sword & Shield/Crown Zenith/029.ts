@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Jurob"
 	},
 
+
+	illustrator: "Kagemaru Himeno",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 70,

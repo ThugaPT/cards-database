@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Freunde aus Sinnoh"
 	},
 
+
+	illustrator: "Ryuta Fuse",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

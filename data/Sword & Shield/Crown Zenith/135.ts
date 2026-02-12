@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Nirgendwo-Sauger"
 	},
 
+
+	illustrator: "Amelicart",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

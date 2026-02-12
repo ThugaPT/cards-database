@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Lino"
 	},
 
+
+	illustrator: "Oswaldo KATO",
+
 	rarity: "Ultra Rare",
 	category: "Trainer",
 

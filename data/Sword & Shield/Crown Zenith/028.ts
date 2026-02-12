@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Amfira"
 	},
 
+
+	illustrator: "aoki",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 120,

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Rotom VSTAR"
 	},
 
+
+	illustrator: "5ban Graphics",
+
 	rarity: "Holo Rare VSTAR",
 	category: "Pokemon",
 	hp: 250,

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Bidifas"
 	},
 
+
+	illustrator: "Amelicart",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 120,

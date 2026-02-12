@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Ditto"
 	},
 
+
+	illustrator: "Miki Tanaka",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 70,

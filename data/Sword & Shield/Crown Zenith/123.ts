@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Saida"
 	},
 
+
+	illustrator: "Atsushi Furusawa",
+
 	rarity: "Holo Rare",
 	category: "Trainer",
 

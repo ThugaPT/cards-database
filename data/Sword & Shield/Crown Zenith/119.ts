@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Kommandutan"
 	},
 
+
+	illustrator: "Sekio",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 110,

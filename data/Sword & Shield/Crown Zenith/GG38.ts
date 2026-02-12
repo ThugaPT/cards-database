@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Suicune V"
 	},
 
+
+	illustrator: "Atsushi Furusawa",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 210,

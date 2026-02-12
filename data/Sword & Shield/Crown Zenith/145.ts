@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Trekkingschuhe"
 	},
 
+
+	illustrator: "Amelicart",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

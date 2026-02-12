@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Piondragi V"
 	},
 
+
+	illustrator: "Yuka Morii",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 210,

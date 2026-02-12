@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Tangoloss"
 	},
 
+
+	illustrator: "zig",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 150,

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Wailord"
 	},
 
+
+	illustrator: "KIYOTAKA OSHIYAMA",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 220,

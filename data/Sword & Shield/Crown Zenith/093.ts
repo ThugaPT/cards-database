@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Caesurio"
 	},
 
+
+	illustrator: "DOM",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 110,

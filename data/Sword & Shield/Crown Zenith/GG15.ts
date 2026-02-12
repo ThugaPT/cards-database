@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Sonnfel"
 	},
 
+
+	illustrator: "Nobuhiro Imagawa",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 90,

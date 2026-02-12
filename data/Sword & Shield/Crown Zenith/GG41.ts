@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Raikou V"
 	},
 
+
+	illustrator: "nagimiso",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 200,

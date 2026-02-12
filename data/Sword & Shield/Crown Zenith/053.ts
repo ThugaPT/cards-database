@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Zeraora V"
 	},
 
+
+	illustrator: "5ban Graphics",
+
 	rarity: "Holo Rare V",
 	category: "Pokemon",
 	hp: 210,

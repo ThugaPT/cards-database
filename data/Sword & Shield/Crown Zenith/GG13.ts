@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Diancie"
 	},
 
+
+	illustrator: "Haruko Ichikawa",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 90,

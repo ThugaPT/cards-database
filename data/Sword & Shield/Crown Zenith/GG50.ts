@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Darkrai VSTAR"
 	},
 
+
+	illustrator: "Pani Kobayashi",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 270,

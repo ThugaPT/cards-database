@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Cherens Obhut"
 	},
 
+
+	illustrator: "chibi",
+
 	rarity: "Ultra Rare",
 	category: "Trainer",
 

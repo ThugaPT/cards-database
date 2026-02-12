@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Diam"
 	},
 
+
+	illustrator: "Naoki Saito",
+
 	rarity: "Ultra Rare",
 	category: "Trainer",
 

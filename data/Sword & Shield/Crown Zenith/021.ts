@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Entei"
 	},
 
+
+	illustrator: "Nisota Niso",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	hp: 120,

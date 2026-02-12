@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Superball"
 	},
 
+
+	illustrator: "Toyste Beach",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

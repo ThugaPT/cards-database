@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Staralili"
 	},
 
+
+	illustrator: "Ligton",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 60,

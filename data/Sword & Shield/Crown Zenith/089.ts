@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Stolloss"
 	},
 
+
+	illustrator: "GOSSAN",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	hp: 180,

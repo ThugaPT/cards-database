@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Keldeo"
 	},
 
+
+	illustrator: "KEIICHIRO ITO",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 110,

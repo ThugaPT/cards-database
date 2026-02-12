@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Silembrim V"
 	},
 
+
+	illustrator: "kawayoo",
+
 	rarity: "Holo Rare V",
 	category: "Pokemon",
 	hp: 200,

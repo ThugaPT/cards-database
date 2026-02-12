@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Cynthias Ehrgeiz"
 	},
 
+
+	illustrator: "Atsuya Uki",
+
 	rarity: "Ultra Rare",
 	category: "Trainer",
 

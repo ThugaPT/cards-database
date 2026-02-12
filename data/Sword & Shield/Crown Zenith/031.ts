@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Wailmer"
 	},
 
+
+	illustrator: "kodama",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 120,

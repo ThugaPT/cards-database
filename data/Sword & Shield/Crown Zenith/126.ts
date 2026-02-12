@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Buddel-Brüder"
 	},
 
+
+	illustrator: "Yuu Nishida",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

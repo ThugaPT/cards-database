@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Hoopa"
 	},
 
+
+	illustrator: "Souichirou Gunjima",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	hp: 120,

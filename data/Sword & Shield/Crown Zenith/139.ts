@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Trank"
 	},
 
+
+	illustrator: "Ryo Ueda",
+
 	rarity: "Common",
 	category: "Trainer",
 

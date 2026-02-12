@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Betys"
 	},
 
+
+	illustrator: "You Iribi",
+
 	rarity: "Holo Rare",
 	category: "Trainer",
 

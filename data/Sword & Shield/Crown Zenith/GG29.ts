@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Bidiza"
 	},
 
+
+	illustrator: "Kouki Saitou",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 60,

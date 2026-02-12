@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Lunastein"
 	},
 
+
+	illustrator: "sowsow",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 90,

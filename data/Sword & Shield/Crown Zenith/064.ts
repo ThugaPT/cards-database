@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Kapu-Fala"
 	},
 
+
+	illustrator: "Saya Tsuruta",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	hp: 110,

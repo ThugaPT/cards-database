@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Mewtu VSTAR"
 	},
 
+
+	illustrator: "GOSSAN",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 280,

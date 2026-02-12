@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Eguana"
 	},
 
+
+	illustrator: "Oswaldo KATO",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 70,

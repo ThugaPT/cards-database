@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Sonnkern"
 	},
 
+
+	illustrator: "ryoma uratsuka",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 40,

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Voltilamm"
 	},
 
+
+	illustrator: "Kouki Saitou",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 60,

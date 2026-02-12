@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Freunde aus Hisui"
 	},
 
+
+	illustrator: "kirisAki",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

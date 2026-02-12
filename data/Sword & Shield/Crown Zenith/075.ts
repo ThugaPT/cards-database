@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Smogon"
 	},
 
+
+	illustrator: "miki kudo",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 70,

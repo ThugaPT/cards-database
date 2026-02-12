@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Wolwerock"
 	},
 
+
+	illustrator: "kodama",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 120,

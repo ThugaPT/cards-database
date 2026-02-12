@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Deoxys"
 	},
 
+
+	illustrator: "Scav",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 120,

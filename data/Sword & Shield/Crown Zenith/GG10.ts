@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Mew"
 	},
 
+
+	illustrator: "Ryota Murayama",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 60,

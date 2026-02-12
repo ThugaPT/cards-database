@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Evoli V"
 	},
 
+
+	illustrator: "You Iribi",
+
 	rarity: "Holo Rare V",
 	category: "Pokemon",
 	hp: 200,

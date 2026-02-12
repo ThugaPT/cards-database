@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Zirpeise"
 	},
 
+
+	illustrator: "Nurikabe",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 90,

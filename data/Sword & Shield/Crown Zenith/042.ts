@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Luxio"
 	},
 
+
+	illustrator: "Eri Yamaki",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 90,

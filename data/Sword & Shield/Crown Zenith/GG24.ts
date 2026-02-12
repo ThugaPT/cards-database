@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Miltank"
 	},
 
+
+	illustrator: "Yuu Nishida",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 110,

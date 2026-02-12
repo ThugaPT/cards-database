@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Zwirrklop"
 	},
 
+
+	illustrator: "DOM",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 90,

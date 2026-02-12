@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Galar-Mauzi"
 	},
 
+
+	illustrator: "miki kudo",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 70,

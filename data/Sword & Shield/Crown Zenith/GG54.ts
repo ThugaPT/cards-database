@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Zamazenta V"
 	},
 
+
+	illustrator: "Haru Akasaka",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 220,

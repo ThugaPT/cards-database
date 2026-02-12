@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Kikugi"
 	},
 
+
+	illustrator: "Lee HyunJung",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 50,

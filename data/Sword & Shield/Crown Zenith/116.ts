@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Bissbark V"
 	},
 
+
+	illustrator: "MUGENUP",
+
 	rarity: "Holo Rare V",
 	category: "Pokemon",
 	hp: 210,

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Ur-Dialga VSTAR"
 	},
 
+
+	illustrator: "AKIRA EGAWA",
+
 	rarity: "Secret Rare",
 	category: "Pokemon",
 	hp: 280,

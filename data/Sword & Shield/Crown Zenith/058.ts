@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Kokowei"
 	},
 
+
+	illustrator: "Toshinao Aoki",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 130,

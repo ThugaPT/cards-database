@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Silembrim VMAX"
 	},
 
+
+	illustrator: "sui",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 320,

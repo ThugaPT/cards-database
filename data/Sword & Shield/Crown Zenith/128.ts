@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Energiesuche"
 	},
 
+
+	illustrator: "Studio Bora Inc.",
+
 	rarity: "Common",
 	category: "Trainer",
 

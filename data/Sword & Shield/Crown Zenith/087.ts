@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Stollunior"
 	},
 
+
+	illustrator: "sowsow",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 70,

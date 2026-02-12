@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Luxtra"
 	},
 
+
+	illustrator: "Ryota Murayama",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 160,

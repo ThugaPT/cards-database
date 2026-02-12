@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Mew V"
 	},
 
+
+	illustrator: "PLANETA Yamashita",
+
 	rarity: "Holo Rare V",
 	category: "Pokemon",
 	hp: 180,

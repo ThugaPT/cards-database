@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Mewtu"
 	},
 
+
+	illustrator: "Atsushi Furusawa",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	hp: 130,

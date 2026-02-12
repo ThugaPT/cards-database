@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Tauros"
 	},
 
+
+	illustrator: "Kouki Saitou",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 110,

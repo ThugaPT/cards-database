@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Scherox"
 	},
 
+
+	illustrator: "kodama",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 130,

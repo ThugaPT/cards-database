@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Rettungsbox"
 	},
 
+
+	illustrator: "Amelicart",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Zeraora VSTAR"
 	},
 
+
+	illustrator: "Ligton",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 270,

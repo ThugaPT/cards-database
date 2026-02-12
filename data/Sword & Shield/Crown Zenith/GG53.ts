@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Hoopa V"
 	},
 
+
+	illustrator: "OKACHEKE",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 220,

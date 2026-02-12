@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Pikachu"
 	},
 
+
+	illustrator: "Kouki Saitou",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 60,

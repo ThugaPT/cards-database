@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Absol"
 	},
 
+
+	illustrator: "Shiburingaru",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	hp: 100,

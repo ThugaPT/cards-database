@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Entei V"
 	},
 
+
+	illustrator: "Shigenori Negishi",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 230,

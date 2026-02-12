@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Tandrak"
 	},
 
+
+	illustrator: "NC Empire",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 120,

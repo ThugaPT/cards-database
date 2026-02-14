@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Meditalis"
 	},
 
+
+	illustrator: "Kouki Saitou",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 110,

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Pudox"
 	},
 
+
+	illustrator: "Mitsuhiro Arita",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 140,

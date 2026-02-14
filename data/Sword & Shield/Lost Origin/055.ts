@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Voltenso"
 	},
 
+
+	illustrator: "GIDORA",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 120,

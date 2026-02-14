@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Illusionsportal"
 	},
 
+
+	illustrator: "sadaji",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

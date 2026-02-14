@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Maritellit V"
 	},
 
+
+	illustrator: "Nisota Niso",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 180,

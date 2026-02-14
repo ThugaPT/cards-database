@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Volo"
 	},
 
+
+	illustrator: "kirisAki",
+
 	rarity: "Ultra Rare",
 	category: "Trainer",
 

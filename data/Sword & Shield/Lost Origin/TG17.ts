@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Pikachu VMAX"
 	},
 
+
+	illustrator: "Souichirou Gunjima",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 310,

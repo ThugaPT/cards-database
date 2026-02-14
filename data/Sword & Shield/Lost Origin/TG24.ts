@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Befehl vom Boss"
 	},
 
+
+	illustrator: "NC Empire",
+
 	rarity: "Ultra Rare",
 	category: "Trainer",
 

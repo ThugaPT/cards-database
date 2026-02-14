@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Liebiskus"
 	},
 
+
+	illustrator: "Sekio",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 70,

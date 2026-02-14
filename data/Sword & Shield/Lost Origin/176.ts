@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Rotom V"
 	},
 
+
+	illustrator: "PLANETA Mochizuki",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 190,

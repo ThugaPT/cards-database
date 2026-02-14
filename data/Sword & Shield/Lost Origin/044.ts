@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Hisui-Barschuft"
 	},
 
+
+	illustrator: "Oswaldo KATO",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 50,

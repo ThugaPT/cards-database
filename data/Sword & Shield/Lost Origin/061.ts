@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Zapplarang"
 	},
 
+
+	illustrator: "Shin Nagasawa",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 160,

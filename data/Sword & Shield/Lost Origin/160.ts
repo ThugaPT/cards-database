@@ -13,6 +13,9 @@ const card: Card = {
 		de: "See der Stärke"
 	},
 
+
+	illustrator: "Oswaldo KATO",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

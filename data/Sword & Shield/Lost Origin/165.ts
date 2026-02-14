@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Panikmaske"
 	},
 
+
+	illustrator: "Studio Bora Inc.",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

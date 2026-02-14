@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Kramshef"
 	},
 
+
+	illustrator: "Shiburingaru",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 120,

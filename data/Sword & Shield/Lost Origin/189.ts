@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Hinatsu"
 	},
 
+
+	illustrator: "You Iribi",
+
 	rarity: "Ultra Rare",
 	category: "Trainer",
 

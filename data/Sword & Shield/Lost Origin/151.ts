@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Schlaraffel"
 	},
 
+
+	illustrator: "sui",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 130,

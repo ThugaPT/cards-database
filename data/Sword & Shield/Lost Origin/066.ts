@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Gengar"
 	},
 
+
+	illustrator: "Narumi Sato",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	hp: 120,

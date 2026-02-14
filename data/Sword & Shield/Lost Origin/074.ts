@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Cresselia"
 	},
 
+
+	illustrator: "saino misaki",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	hp: 120,

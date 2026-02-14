@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Flunkifer"
 	},
 
+
+	illustrator: "kurumitsu",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 90,

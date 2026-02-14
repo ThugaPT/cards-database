@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Nirgendwo-Sauger"
 	},
 
+
+	illustrator: "Toyste Beach",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

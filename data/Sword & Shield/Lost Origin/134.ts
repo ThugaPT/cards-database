@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Hisui Viscogon"
 	},
 
+
+	illustrator: "Akira Komayama",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	hp: 160,

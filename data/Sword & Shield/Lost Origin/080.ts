@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Mimigma"
 	},
 
+
+	illustrator: "Ligton",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 70,

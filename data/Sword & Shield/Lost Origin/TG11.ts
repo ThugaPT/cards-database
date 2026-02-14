@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Formeo"
 	},
 
+
+	illustrator: "Atsushi Furusawa",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 70,

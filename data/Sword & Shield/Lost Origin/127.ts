@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Galar-Flunschlik"
 	},
 
+
+	illustrator: "Shigenori Negishi",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 100,

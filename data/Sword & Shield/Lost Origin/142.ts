@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Porygon-Z"
 	},
 
+
+	illustrator: "Shibuzoh.",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 150,

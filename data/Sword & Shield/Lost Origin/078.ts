@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Calamanero"
 	},
 
+
+	illustrator: "Tomokazu Komiya",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 110,

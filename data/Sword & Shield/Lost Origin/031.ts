@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Quaputzi"
 	},
 
+
+	illustrator: "Scav",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 90,

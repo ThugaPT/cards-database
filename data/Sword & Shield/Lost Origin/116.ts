@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Vipitis"
 	},
 
+
+	illustrator: "Tomokazu Komiya",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 110,

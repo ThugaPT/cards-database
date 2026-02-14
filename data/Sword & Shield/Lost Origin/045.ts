@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Hisui-Salmagnis"
 	},
 
+
+	illustrator: "AKIRA EGAWA",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	hp: 110,

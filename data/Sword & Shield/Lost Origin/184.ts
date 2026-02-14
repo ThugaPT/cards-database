@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Galar-Mauzinger V"
 	},
 
+
+	illustrator: "GOSSAN",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 200,

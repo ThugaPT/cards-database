@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Legios"
 	},
 
+
+	illustrator: "sowsow",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 100,

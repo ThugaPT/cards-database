@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Rotom V"
 	},
 
+
+	illustrator: "Yuu Nishida",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 190,

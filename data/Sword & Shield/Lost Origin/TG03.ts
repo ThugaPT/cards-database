@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Glurak"
 	},
 
+
+	illustrator: "GIDORA",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 170,

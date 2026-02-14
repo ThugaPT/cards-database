@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Quappo"
 	},
 
+
+	illustrator: "Teeziro",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 160,

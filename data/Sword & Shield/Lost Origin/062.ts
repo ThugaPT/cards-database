@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Piepi"
 	},
 
+
+	illustrator: "Kouki Saitou",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 60,

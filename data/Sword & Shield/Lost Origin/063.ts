@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Pixi"
 	},
 
+
+	illustrator: "Sekio",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 100,

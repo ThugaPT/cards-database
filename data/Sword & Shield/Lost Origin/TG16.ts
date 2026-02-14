@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Pikachu V"
 	},
 
+
+	illustrator: "Ryota Murayama",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 190,

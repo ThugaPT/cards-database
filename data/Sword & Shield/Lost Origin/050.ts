@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Urgl"
 	},
 
+
+	illustrator: "Midori Harada",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 110,

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Magcargo"
 	},
 
+
+	illustrator: "Pani Kobayashi",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 130,

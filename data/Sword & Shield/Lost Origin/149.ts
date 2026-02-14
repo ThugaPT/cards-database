@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Koalelu"
 	},
 
+
+	illustrator: "HYOGONOSUKE",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 100,

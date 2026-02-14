@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Nirgendwo City"
 	},
 
+
+	illustrator: "AYUMI ODASHIMA",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

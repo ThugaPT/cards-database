@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Maschock"
 	},
 
+
+	illustrator: "Mitsuhiro Arita",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 100,

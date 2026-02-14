@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Skelabra"
 	},
 
+
+	illustrator: "chibi",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 150,

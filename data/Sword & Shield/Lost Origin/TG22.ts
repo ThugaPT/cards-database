@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Endynalos VMAX"
 	},
 
+
+	illustrator: "Mitsuhiro Arita",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 340,

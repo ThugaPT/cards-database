@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Bisofank"
 	},
 
+
+	illustrator: "Nisota Niso",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 130,

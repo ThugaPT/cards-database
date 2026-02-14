@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Hoopa"
 	},
 
+
+	illustrator: "Sanosuke Sakuma",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 120,

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Jugong"
 	},
 
+
+	illustrator: "chibi",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 120,

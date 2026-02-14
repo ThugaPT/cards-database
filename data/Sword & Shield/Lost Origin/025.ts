@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Laternecto"
 	},
 
+
+	illustrator: "kurumitsu",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 80,

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Cupidos V"
 	},
 
+
+	illustrator: "AKIRA EGAWA",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 210,

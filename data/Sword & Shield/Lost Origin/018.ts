@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Sensect"
 	},
 
+
+	illustrator: "Asako Ito",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 50,

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Kryppuk"
 	},
 
+
+	illustrator: "Hitoshi Ariga",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 60,

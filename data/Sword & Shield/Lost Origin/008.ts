@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Papinella"
 	},
 
+
+	illustrator: "Yuu Nishida",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	hp: 130,

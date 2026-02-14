@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Magnezone V"
 	},
 
+
+	illustrator: "N-DESIGN Inc.",
+
 	rarity: "Holo Rare VMAX",
 	category: "Pokemon",
 	hp: 210,

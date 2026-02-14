@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Magnezone VSTAR"
 	},
 
+
+	illustrator: "PLANETA Mochizuki",
+
 	rarity: "Holo Rare VSTAR",
 	category: "Pokemon",
 	hp: 270,

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Ambidiffel"
 	},
 
+
+	illustrator: "Atsushi Furusawa",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 90,

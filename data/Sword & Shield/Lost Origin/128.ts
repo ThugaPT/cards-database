@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Magearna"
 	},
 
+
+	illustrator: "Rianti Hidayat",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 90,

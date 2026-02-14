@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Hariyama"
 	},
 
+
+	illustrator: "Scav",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 140,

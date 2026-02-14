@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Rihornior"
 	},
 
+
+	illustrator: "GOSSAN",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 190,

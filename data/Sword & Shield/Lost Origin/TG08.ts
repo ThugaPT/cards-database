@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Hisui-Arkani"
 	},
 
+
+	illustrator: "You Iribi",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 130,

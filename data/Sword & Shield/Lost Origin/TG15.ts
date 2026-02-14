@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Infernopod VMAX"
 	},
 
+
+	illustrator: "Oswaldo KATO",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 320,

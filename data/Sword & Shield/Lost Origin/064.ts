@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Nebulak"
 	},
 
+
+	illustrator: "Tika Matsuno",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 40,

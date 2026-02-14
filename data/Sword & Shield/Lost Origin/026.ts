@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Skelabra"
 	},
 
+
+	illustrator: "sui",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	hp: 150,

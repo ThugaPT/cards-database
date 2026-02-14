@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Skorgro"
 	},
 
+
+	illustrator: "Shiburingaru",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 120,

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Strahlendes Glurak"
 	},
 
+
+	illustrator: "Shigenori Negishi",
+
 	rarity: "Radiant Rare",
 	category: "Pokemon",
 	hp: 160,

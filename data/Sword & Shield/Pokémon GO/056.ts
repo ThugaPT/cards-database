@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Griffel"
 	},
 
+
+	illustrator: "Sanosuke Sakuma",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 60,

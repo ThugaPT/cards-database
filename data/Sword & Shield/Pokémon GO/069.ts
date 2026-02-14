@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Sonderbonbon"
 	},
 
+
+	illustrator: "Ayaka Yoshida",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

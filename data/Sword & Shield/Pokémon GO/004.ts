@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Strahlendes Bisaflor"
 	},
 
+
+	illustrator: "Misa Tsutsui",
+
 	rarity: "Radiant Rare",
 	category: "Pokemon",
 	hp: 150,

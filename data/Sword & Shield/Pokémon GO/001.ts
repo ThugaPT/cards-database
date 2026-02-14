@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Bisasam"
 	},
 
+
+	illustrator: "sowsow",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 70,

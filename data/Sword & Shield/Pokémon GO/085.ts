@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Spark"
 	},
 
+
+	illustrator: "Naoki Saito",
+
 	rarity: "Secret Rare",
 	category: "Trainer",
 

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Ambidiffel"
 	},
 
+
+	illustrator: "Scav",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 90,

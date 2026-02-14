@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Letarking V"
 	},
 
+
+	illustrator: "Saki Hayashiro",
+
 	rarity: "Holo Rare V",
 	category: "Pokemon",
 	hp: 230,

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Bisaflor"
 	},
 
+
+	illustrator: "KEIICHIRO ITO",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	hp: 180,

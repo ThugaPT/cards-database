@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Turtok"
 	},
 
+
+	illustrator: "NC Empire",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	hp: 170,

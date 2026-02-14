@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Meistagrif V"
 	},
 
+
+	illustrator: "Ayaka Yoshida",
+
 	rarity: "Holo Rare V",
 	category: "Pokemon",
 	hp: 230,

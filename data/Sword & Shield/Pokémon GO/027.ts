@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Pikachu"
 	},
 
+
+	illustrator: "N-DESIGN Inc.",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 60,

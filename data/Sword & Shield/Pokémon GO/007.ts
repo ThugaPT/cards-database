@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Ariados"
 	},
 
+
+	illustrator: "Misa Tsutsui",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 110,

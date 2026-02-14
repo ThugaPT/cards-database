@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Forschung des Professors"
 	},
 
+
+	illustrator: "Yusuke Kozaki",
+
 	rarity: "Ultra Rare",
 	category: "Trainer",
 

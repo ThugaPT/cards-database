@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Webarak"
 	},
 
+
+	illustrator: "Yuka Morii",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 60,

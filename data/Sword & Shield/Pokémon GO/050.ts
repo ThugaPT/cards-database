@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Dragoran VSTAR"
 	},
 
+
+	illustrator: "PLANETA Tsuji",
+
 	rarity: "Holo Rare VSTAR",
 	category: "Pokemon",
 	hp: 280,

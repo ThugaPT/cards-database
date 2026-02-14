@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Stahlos"
 	},
 
+
+	illustrator: "GOSSAN",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 180,

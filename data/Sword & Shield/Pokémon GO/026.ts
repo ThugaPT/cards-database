@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Tectass"
 	},
 
+
+	illustrator: "otumami",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	hp: 130,

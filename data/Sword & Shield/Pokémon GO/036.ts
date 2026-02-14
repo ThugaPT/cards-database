@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Onix"
 	},
 
+
+	illustrator: "Mitsuhiro Arita",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 120,

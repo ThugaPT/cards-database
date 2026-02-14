@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Arktos"
 	},
 
+
+	illustrator: "Jiro Sasumo",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	hp: 120,

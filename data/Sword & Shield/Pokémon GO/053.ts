@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Ditto"
 	},
 
+
+	illustrator: "Misa Tsutsui",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	hp: 70,

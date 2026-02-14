@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Lockmodul"
 	},
 
+
+	illustrator: "ORBITALLINK Inc.",
+
 	rarity: "Secret Rare",
 	category: "Trainer",
 

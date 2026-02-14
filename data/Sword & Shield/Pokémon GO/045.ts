@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Meltan"
 	},
 
+
+	illustrator: "Sumiyoshi Kizuki",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 70,

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Mewtu V"
 	},
 
+
+	illustrator: "Nurikabe",
+
 	rarity: "Holo Rare V",
 	category: "Pokemon",
 	hp: 220,

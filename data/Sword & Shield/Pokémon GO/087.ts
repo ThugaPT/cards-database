@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Ei-Brutmaschine"
 	},
 
+
+	illustrator: "sadaji",
+
 	rarity: "Secret Rare",
 	category: "Trainer",
 

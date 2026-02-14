@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Prof. Laven"
 	},
 
+
+	illustrator: "Ken Sugimori",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

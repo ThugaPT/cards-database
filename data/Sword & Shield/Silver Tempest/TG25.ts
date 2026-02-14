@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Richter"
 	},
 
+
+	illustrator: "Ryuta Fuse",
+
 	rarity: "Full Art Trainer",
 	category: "Trainer",
 

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Aeropteryx"
 	},
 
+
+	illustrator: "Masakazu Fukuda",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	hp: 150,

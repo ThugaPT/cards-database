@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Frosdedje"
 	},
 
+
+	illustrator: "Taira Akitsu",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 90,

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Pygraulon"
 	},
 
+
+	illustrator: "Shigenori Negishi",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 60,

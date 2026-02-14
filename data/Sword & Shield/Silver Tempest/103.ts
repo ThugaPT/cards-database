@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Zubat"
 	},
 
+
+	illustrator: "Shigenori Negishi",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 40,

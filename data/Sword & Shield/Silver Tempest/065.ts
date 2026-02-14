@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Icognito V"
 	},
 
+
+	illustrator: "N-DESIGN Inc.",
+
 	rarity: "Holo Rare V",
 	category: "Pokemon",
 	hp: 180,

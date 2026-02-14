@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Trasla"
 	},
 
+
+	illustrator: "Nagomi Nijo",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 60,

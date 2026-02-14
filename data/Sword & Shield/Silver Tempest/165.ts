@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Unbekanntes Fossil"
 	},
 
+
+	illustrator: "AYUMI ODASHIMA",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

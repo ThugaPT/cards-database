@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Wassili"
 	},
 
+
+	illustrator: "Megumi Mizutani",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

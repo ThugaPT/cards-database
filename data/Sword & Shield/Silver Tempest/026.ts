@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Rutena"
 	},
 
+
+	illustrator: "Ligton",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 90,

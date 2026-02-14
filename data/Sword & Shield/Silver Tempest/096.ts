@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Armaldo"
 	},
 
+
+	illustrator: "Souichirou Gunjima",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 150,

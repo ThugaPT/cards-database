@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Rotom"
 	},
 
+
+	illustrator: "Taira Akitsu",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 80,

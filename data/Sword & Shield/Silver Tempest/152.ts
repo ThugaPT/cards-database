@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Frida"
 	},
 
+
+	illustrator: "Ken Sugimori",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Strahlendes Fruyal"
 	},
 
+
+	illustrator: "Kagemaru Himeno",
+
 	rarity: "Radiant Rare",
 	category: "Pokemon",
 	hp: 140,

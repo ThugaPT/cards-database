@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Pandir"
 	},
 
+
+	illustrator: "Souichirou Gunjima",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 90,

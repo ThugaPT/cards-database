@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Rokkaiman"
 	},
 
+
+	illustrator: "Pani Kobayashi",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 100,

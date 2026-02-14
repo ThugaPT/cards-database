@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Brian"
 	},
 
+
+	illustrator: "Hideki Ishikawa",
+
 	rarity: "Ultra Rare",
 	category: "Trainer",
 

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Phione"
 	},
 
+
+	illustrator: "Jiro Sasumo",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 70,

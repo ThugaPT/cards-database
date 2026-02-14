@@ -14,6 +14,9 @@ const card: Card = {
 		de: "UHaFnir"
 	},
 
+
+	illustrator: "aoki",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 110,

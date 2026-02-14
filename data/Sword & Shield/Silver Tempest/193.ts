@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Serena"
 	},
 
+
+	illustrator: "Megumi Mizutani",
+
 	rarity: "Ultra Rare",
 	category: "Trainer",
 

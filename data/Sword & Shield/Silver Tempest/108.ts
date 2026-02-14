@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Skuntank V"
 	},
 
+
+	illustrator: "MUGENUP",
+
 	rarity: "Holo Rare V",
 	category: "Pokemon",
 	hp: 210,

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Colossand"
 	},
 
+
+	illustrator: "sui",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 140,

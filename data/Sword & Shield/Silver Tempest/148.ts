@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Geronimatz"
 	},
 
+
+	illustrator: "kurumitsu",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 70,

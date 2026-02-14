@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Großmaulmoor"
 	},
 
+
+	illustrator: "Oswaldo KATO",
+
 	rarity: "Secret Rare",
 	category: "Trainer",
 

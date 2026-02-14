@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Donphan"
 	},
 
+
+	illustrator: "Anesaki Dynamic",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 150,

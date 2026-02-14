@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Glibunkel"
 	},
 
+
+	illustrator: "Shin Nagasawa",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 80,

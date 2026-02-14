@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Strahlendes Simsala"
 	},
 
+
+	illustrator: "Akira Komayama",
+
 	rarity: "Radiant Rare",
 	category: "Pokemon",
 	hp: 130,

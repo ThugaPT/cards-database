@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Tanhel"
 	},
 
+
+	illustrator: "sowsow",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 60,

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Milotic"
 	},
 
+
+	illustrator: "KEIICHIRO ITO",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 130,

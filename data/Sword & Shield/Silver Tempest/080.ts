@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Megalon"
 	},
 
+
+	illustrator: "Shinji Kanda",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 90,

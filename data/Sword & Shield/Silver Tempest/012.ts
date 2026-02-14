@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Hutsassa"
 	},
 
+
+	illustrator: "GOSSAN",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 90,

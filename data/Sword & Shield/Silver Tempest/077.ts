@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Mitodos"
 	},
 
+
+	illustrator: "Pani Kobayashi",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 70,

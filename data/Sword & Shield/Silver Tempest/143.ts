@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Altaria"
 	},
 
+
+	illustrator: "Sanosuke Sakuma",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 110,

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Symvolara"
 	},
 
+
+	illustrator: "Yuya Oka",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 100,

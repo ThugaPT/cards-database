@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Humanolith"
 	},
 
+
+	illustrator: "Hataya",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 130,

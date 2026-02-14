@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Ponita"
 	},
 
+
+	illustrator: "Teeziro",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 70,

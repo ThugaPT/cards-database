@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Lilminip"
 	},
 
+
+	illustrator: "HYOGONOSUKE",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 50,

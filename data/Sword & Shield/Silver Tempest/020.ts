@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Arkani"
 	},
 
+
+	illustrator: "OKACHEKE",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 140,

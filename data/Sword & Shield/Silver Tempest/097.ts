@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Terrakium"
 	},
 
+
+	illustrator: "nagimiso",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	hp: 130,

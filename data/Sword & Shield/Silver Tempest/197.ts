@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Alola Vulpix-VSTAR"
 	},
 
+
+	illustrator: "PLANETA Hiiragi",
+
 	rarity: "Secret Rare",
 	category: "Pokemon",
 	hp: 240,

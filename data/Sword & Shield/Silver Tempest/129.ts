@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Dratini"
 	},
 
+
+	illustrator: "kurumitsu",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 70,

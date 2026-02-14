@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Lepumentas"
 	},
 
+
+	illustrator: "Nisota Niso",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 110,

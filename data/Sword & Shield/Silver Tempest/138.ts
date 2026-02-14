@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Lugia V"
 	},
 
+
+	illustrator: "Mitsuhiro Arita",
+
 	rarity: "Holo Rare V",
 	category: "Pokemon",
 	hp: 220,

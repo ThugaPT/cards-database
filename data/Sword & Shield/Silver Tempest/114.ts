@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Garstella"
 	},
 
+
+	illustrator: "Yuu Nishida",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 60,

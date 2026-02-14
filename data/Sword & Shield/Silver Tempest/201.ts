@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Regidrago VSTAR"
 	},
 
+
+	illustrator: "PLANETA Yamashita",
+
 	rarity: "Secret Rare",
 	category: "Pokemon",
 	hp: 280,

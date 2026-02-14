@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Urzeitlicher Altar"
 	},
 
+
+	illustrator: "AYUMI ODASHIMA",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

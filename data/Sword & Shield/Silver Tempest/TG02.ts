@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Milotic"
 	},
 
+
+	illustrator: "chibi",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	hp: 130,

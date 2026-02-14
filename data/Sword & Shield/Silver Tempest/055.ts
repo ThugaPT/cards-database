@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Flunschlik"
 	},
 
+
+	illustrator: "Shinji Kanda",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 110,

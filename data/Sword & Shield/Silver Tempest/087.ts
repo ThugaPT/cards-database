@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Grolldra"
 	},
 
+
+	illustrator: "Tomokazu Komiya",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 60,

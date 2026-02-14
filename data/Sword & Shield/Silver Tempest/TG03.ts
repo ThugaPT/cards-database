@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Waaty"
 	},
 
+
+	illustrator: "saino misaki",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	hp: 90,

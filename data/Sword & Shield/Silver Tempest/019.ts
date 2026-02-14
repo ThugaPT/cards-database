@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Fukano"
 	},
 
+
+	illustrator: "sowsow",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 90,

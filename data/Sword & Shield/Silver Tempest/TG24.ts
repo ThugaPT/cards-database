@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Mac"
 	},
 
+
+	illustrator: "Ryuta Fuse",
+
 	rarity: "Full Art Trainer",
 	category: "Trainer",
 

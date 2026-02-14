@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Schneppke"
 	},
 
+
+	illustrator: "sui",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 60,

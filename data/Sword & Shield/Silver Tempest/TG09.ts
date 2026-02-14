@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Shardrago"
 	},
 
+
+	illustrator: "Teeziro",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	hp: 120,

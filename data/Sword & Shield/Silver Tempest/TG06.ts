@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Calamanero"
 	},
 
+
+	illustrator: "Fumie Kittaka",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	hp: 120,

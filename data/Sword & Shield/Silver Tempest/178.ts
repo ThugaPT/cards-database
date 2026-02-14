@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Flunkifer V"
 	},
 
+
+	illustrator: "takuyoa",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 200,

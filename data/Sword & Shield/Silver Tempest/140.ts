@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Ho-Oh V"
 	},
 
+
+	illustrator: "AKIRA EGAWA",
+
 	rarity: "Holo Rare V",
 	category: "Pokemon",
 	hp: 230,

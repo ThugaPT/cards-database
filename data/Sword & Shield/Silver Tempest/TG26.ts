@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Prof. Burnett"
 	},
 
+
+	illustrator: "kirisAki",
+
 	rarity: "Full Art Trainer",
 	category: "Trainer",
 

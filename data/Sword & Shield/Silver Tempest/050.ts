@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Raichu"
 	},
 
+
+	illustrator: "Megumi Mizutani",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 120,

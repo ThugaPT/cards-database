@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Wuffels"
 	},
 
+
+	illustrator: "Hideki Ishikawa",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	hp: 70,

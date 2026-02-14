@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Dragonir"
 	},
 
+
+	illustrator: "Shinya Komatsu",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 100,

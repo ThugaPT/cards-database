@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Firnontor"
 	},
 
+
+	illustrator: "Scav",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 130,

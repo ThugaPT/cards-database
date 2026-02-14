@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Kimono-Trägerin"
 	},
 
+
+	illustrator: "saino misaki",
+
 	rarity: "Ultra Rare",
 	category: "Trainer",
 

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Flapteryx"
 	},
 
+
+	illustrator: "Misa Tsutsui",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 80,

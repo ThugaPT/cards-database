@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Krarmor VMAX"
 	},
 
+
+	illustrator: "Shigenori Negishi",
+
 	rarity: "Holo Rare VMAX",
 	category: "Pokemon",
 	hp: 320,

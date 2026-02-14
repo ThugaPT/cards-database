@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Emolga"
 	},
 
+
+	illustrator: "sowsow",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 70,

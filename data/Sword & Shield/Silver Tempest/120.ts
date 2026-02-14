@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Strahlendes Jirachi"
 	},
 
+
+	illustrator: "Ryuta Fuse",
+
 	rarity: "Radiant Rare",
 	category: "Pokemon",
 	hp: 90,

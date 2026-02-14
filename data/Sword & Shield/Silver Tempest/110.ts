@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Toxiquak"
 	},
 
+
+	illustrator: "Uta",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 120,

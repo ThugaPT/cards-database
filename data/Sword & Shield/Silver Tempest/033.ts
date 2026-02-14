@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Alola Vulpix-V"
 	},
 
+
+	illustrator: "Ryota Murayama",
+
 	rarity: "Holo Rare V",
 	category: "Pokemon",
 	hp: 190,

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Farbeagle"
 	},
 
+
+	illustrator: "Mizue",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 70,

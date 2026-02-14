@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Omot"
 	},
 
+
+	illustrator: "Kagemaru Himeno",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 90,

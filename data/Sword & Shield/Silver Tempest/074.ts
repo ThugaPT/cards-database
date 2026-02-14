@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Palimpalim"
 	},
 
+
+	illustrator: "Naoyo Kimura",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 70,

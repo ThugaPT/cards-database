@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Ariados"
 	},
 
+
+	illustrator: "Tika Matsuno",
+
 	rarity: "Holo Rare",
 	category: "Pokemon",
 	hp: 90,

@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Roy"
 	},
 
+
+	illustrator: "take",
+
 	rarity: "Full Art Trainer",
 	category: "Trainer",
 

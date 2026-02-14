@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Dedenne"
 	},
 
+
+	illustrator: "Shiburingaru",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 60,

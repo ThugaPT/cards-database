@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Araqua"
 	},
 
+
+	illustrator: "Naoyo Kimura",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 60,

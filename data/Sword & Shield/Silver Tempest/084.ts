@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Sabbaione"
 	},
 
+
+	illustrator: "Mizue",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 120,

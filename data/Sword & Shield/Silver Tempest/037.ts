@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Wailmer"
 	},
 
+
+	illustrator: "Jiro Sasumo",
+
 	rarity: "Common",
 	category: "Pokemon",
 	hp: 110,

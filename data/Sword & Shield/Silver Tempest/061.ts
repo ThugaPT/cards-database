@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Hypno"
 	},
 
+
+	illustrator: "Shinji Kanda",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 110,

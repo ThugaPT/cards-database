@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Brigaron V"
 	},
 
+
+	illustrator: "N-DESIGN Inc.",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 230,

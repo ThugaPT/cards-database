@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Magearna V"
 	},
 
+
+	illustrator: "N-DESIGN Inc.",
+
 	rarity: "Holo Rare V",
 	category: "Pokemon",
 	hp: 210,

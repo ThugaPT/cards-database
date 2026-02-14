@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Vulnona"
 	},
 
+
+	illustrator: "Shiburingaru",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 110,

@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Erd-Siegelstein"
 	},
 
+
+	illustrator: "AYUMI ODASHIMA",
+
 	rarity: "Holo Rare",
 	category: "Trainer",
 

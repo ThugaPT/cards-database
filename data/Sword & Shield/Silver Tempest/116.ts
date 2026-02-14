@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Morpeko"
 	},
 
+
+	illustrator: "nagimiso",
+
 	rarity: "Uncommon",
 	category: "Pokemon",
 	hp: 60,

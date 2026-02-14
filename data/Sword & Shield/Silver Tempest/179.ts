@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Hisui-Arkani V"
 	},
 
+
+	illustrator: "5ban Graphics",
+
 	rarity: "Ultra Rare",
 	category: "Pokemon",
 	hp: 230,

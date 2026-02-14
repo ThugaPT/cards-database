@@ -13,6 +13,9 @@ const card: Card = {
 		de: "Arbeiterin"
 	},
 
+
+	illustrator: "Sanosuke Sakuma",
+
 	rarity: "Uncommon",
 	category: "Trainer",
 

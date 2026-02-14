@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Keldeo"
 	},
 
+
+	illustrator: "Atsushi Furusawa",
+
 	rarity: "Rare",
 	category: "Pokemon",
 	hp: 120,

@@ -14,6 +14,9 @@ const card: Card = {
 		de: "Rayquaza VMAX"
 	},
 
+
+	illustrator: "PLANETA Mochizuki",
+
 	rarity: "Secret Rare",
 	category: "Pokemon",
 	hp: 320,

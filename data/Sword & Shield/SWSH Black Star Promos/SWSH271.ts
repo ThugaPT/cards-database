@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Kirlia"
 	},
 
+
+	illustrator: "Taira Akitsu",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 80,

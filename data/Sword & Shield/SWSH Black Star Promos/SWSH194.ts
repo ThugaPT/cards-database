@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Leafeon V"
 	},
 
+
+	illustrator: "PLANETA Yamashita",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 210,

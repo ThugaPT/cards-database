@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Liepard"
 	},
 
+
+	illustrator: "saino misaki",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 100,

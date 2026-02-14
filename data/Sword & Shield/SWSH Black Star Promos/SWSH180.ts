@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Flareon VMAX"
 	},
 
+
+	illustrator: "OKACHEKE",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 320,

@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Flareon V"
 	},
 
+
+	illustrator: "Souichirou Gunjima",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 210,

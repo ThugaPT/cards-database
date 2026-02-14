@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Tepig"
 	},
 
+
+	illustrator: "Eri Yamaki",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 80,

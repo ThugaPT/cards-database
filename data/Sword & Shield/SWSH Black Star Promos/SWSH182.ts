@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Vaporeon VMAX"
 	},
 
+
+	illustrator: "Atsushi Furusawa",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 320,

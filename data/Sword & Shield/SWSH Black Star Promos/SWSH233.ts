@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Squirtle"
 	},
 
+
+	illustrator: "kurumitsu",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 70,

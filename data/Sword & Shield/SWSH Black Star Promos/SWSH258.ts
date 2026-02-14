@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Gallade V"
 	},
 
+
+	illustrator: "Ryota Murayama",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 220,

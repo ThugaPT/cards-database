@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Eevee"
 	},
 
+
+	illustrator: "Tika Matsuno",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 60,

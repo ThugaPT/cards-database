@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Moltres"
 	},
 
+
+	illustrator: "Shinji Kanda",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 120,

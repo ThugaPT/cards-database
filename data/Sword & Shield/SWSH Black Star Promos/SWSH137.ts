@@ -21,6 +21,9 @@ const card: Card = {
 		it: "Light Toxtricity"
 	},
 
+
+	illustrator: "Naoyo Kimura",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 120,

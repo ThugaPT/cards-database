@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Charizard VSTAR"
 	},
 
+
+	illustrator: "KIYOTAKA OSHIYAMA",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 280,

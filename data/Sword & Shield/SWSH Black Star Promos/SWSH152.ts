@@ -13,6 +13,9 @@ const card: Card = {
 		en: "Professor's Research"
 	},
 
+
+	illustrator: "Yuu Nishida",
+
 	rarity: "None",
 	category: "Trainer",
 

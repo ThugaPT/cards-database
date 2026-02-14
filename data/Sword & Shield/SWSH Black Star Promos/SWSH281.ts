@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Regidrago V"
 	},
 
+
+	illustrator: "PLANETA Hiiragi",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 220,

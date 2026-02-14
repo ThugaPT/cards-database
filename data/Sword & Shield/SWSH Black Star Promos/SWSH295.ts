@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Virizion V"
 	},
 
+
+	illustrator: "Saki Hayashiro",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 200,

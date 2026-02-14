@@ -20,6 +20,9 @@ const card: Card = {
 		it: "Poké Ball"
 	},
 
+
+	illustrator: "5ban Graphics",
+
 	rarity: "None",
 	category: "Trainer",
 	types: ["Lightning"],

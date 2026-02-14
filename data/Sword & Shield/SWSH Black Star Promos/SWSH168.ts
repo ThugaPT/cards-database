@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Oricorio"
 	},
 
+
+	illustrator: "otumami",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 90,

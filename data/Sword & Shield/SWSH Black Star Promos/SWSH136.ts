@@ -21,6 +21,9 @@ const card: Card = {
 		it: "Mimikyu"
 	},
 
+
+	illustrator: "Hasuno",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 70,

@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Corviknight V"
 	},
 
+
+	illustrator: "PLANETA Mochizuki",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 210,

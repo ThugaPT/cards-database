@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Deoxys VMAX"
 	},
 
+
+	illustrator: "N-DESIGN Inc.",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 330,

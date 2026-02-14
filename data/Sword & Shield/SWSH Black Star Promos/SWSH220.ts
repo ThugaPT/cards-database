@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Rowlet"
 	},
 
+
+	illustrator: "sowsow",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 60,

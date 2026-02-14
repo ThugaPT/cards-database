@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Archeops"
 	},
 
+
+	illustrator: "Nisota Niso",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 150,

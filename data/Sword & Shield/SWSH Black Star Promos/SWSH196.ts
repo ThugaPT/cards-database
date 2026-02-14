@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Glaceon V"
 	},
 
+
+	illustrator: "PLANETA Yamashita",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 210,

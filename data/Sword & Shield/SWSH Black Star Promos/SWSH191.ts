@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Leafeon"
 	},
 
+
+	illustrator: "OKACHEKE",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 110,

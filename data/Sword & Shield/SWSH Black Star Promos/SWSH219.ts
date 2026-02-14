@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Boltund V"
 	},
 
+
+	illustrator: "Ayaka Yoshida",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 200,

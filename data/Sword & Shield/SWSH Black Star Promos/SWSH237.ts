@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Hisuian Typhlosion V"
 	},
 
+
+	illustrator: "5ban Graphics",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 210,

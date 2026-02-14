@@ -13,6 +13,9 @@ const card: Card = {
 		en: "Blanche"
 	},
 
+
+	illustrator: "Anesaki Dynamic",
+
 	rarity: "None",
 	category: "Trainer",
 

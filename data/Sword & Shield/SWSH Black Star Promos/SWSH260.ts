@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Charizard V"
 	},
 
+
+	illustrator: "Oswaldo KATO",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 220,

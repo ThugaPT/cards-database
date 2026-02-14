@@ -21,6 +21,9 @@ const card: Card = {
 		it: "Pikachu VMAX"
 	},
 
+
+	illustrator: "PLANETA Mochizuki",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 310,

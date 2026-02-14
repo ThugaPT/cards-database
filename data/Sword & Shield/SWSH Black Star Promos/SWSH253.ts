@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Origin Forme Palkia V"
 	},
 
+
+	illustrator: "aky CG Works",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 220,

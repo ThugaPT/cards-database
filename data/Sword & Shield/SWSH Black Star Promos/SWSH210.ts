@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Oricorio"
 	},
 
+
+	illustrator: "Ryuta Fuse",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 90,

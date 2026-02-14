@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Hoopa V"
 	},
 
+
+	illustrator: "takuyoa",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 220,

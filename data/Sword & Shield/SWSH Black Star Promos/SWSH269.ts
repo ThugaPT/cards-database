@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Sunflora"
 	},
 
+
+	illustrator: "Shigenori Negishi",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 90,

@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Gengar"
 	},
 
+
+	illustrator: "Uta",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 120,

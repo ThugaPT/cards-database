@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Latias"
 	},
 
+
+	illustrator: "takuyoa",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 120,

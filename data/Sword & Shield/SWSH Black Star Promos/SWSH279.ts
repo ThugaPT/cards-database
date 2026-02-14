@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Inteleon"
 	},
 
+
+	illustrator: "GOSSAN",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 150,

@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Zeraora VMAX"
 	},
 
+
+	illustrator: "N-DESIGN Inc.",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 320,

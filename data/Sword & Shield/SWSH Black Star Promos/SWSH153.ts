@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Pikachu"
 	},
 
+
+	illustrator: "sowsow",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 60,

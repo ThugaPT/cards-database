@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Alolan Exeggutor V"
 	},
 
+
+	illustrator: "MUGENUP",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 240,

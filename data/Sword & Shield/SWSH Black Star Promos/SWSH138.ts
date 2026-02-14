@@ -21,6 +21,9 @@ const card: Card = {
 		it: "Hydreigon C"
 	},
 
+
+	illustrator: "kawayoo",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 110,

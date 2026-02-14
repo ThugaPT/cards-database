@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Rillaboom"
 	},
 
+
+	illustrator: "DOM",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 180,

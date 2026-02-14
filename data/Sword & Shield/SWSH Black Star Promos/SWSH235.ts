@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Dragonite V"
 	},
 
+
+	illustrator: "kawayoo",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 230,

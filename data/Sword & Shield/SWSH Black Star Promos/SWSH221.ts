@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Cyndaquil"
 	},
 
+
+	illustrator: "Teeziro",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 60,

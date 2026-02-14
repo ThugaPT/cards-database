@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Bibarel"
 	},
 
+
+	illustrator: "Misa Tsutsui",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 120,

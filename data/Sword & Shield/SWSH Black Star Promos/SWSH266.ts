@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Deoxys V"
 	},
 
+
+	illustrator: "N-DESIGN Inc.",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 210,

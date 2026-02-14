@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Toxel"
 	},
 
+
+	illustrator: "Souichirou Gunjima",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 60,

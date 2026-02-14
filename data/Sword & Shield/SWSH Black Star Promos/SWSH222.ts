@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Oshawott"
 	},
 
+
+	illustrator: "kurumitsu",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 70,

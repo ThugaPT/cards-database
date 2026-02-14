@@ -21,6 +21,9 @@ const card: Card = {
 		it: "Pikachu V"
 	},
 
+
+	illustrator: "5ban Graphics",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 190,

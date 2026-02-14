@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Lucario V"
 	},
 
+
+	illustrator: "takuyoa",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 210,

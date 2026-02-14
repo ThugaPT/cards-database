@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Finneon"
 	},
 
+
+	illustrator: "OKACHEKE",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 50,

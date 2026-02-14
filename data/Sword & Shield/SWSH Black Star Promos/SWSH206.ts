@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Wyrdeer"
 	},
 
+
+	illustrator: "Eri Yamaki",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 140,

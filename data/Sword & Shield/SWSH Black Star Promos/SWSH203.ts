@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Umbreon V"
 	},
 
+
+	illustrator: "5ban Graphics",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 200,

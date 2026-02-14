@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Hisuian Zoroark VSTAR"
 	},
 
+
+	illustrator: "aky CG Works",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 270,

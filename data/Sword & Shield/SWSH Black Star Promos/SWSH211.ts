@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Sylveon"
 	},
 
+
+	illustrator: "Mizue",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 110,

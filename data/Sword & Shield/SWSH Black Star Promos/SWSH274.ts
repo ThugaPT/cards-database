@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Cranidos"
 	},
 
+
+	illustrator: "GIDORA",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 90,

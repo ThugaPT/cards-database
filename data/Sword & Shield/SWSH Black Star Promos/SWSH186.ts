@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Lucario"
 	},
 
+
+	illustrator: "NC Empire",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 120,

@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Comfey"
 	},
 
+
+	illustrator: "Teeziro",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 70,

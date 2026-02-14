@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Arceus V"
 	},
 
+
+	illustrator: "Atsushi Furusawa",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 220,

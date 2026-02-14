@@ -21,6 +21,9 @@ const card: Card = {
 		it: "Dragonite V"
 	},
 
+
+	illustrator: "Saki Hayashiro",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 230,

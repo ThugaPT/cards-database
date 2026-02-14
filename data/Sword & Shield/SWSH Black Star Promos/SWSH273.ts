@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Hisuian Basculin"
 	},
 
+
+	illustrator: "Shin Nagasawa",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 50,

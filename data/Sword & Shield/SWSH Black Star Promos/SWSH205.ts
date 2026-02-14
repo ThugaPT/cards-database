@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Hisuian Basculegion"
 	},
 
+
+	illustrator: "Pani Kobayashi",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 120,

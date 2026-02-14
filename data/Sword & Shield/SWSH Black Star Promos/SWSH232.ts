@@ -14,6 +14,9 @@ const card: Card = {
 		en: "Charmander"
 	},
 
+
+	illustrator: "Saya Tsuruta",
+
 	rarity: "None",
 	category: "Pokemon",
 	hp: 60,
